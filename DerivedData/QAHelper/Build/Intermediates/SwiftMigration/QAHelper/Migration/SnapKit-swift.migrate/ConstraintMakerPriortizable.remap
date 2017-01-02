@@ -1,0 +1,38 @@
+[
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+  "offset": 1256,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+  "offset": 1359,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+  "offset": 1652,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+  "offset": 1891,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+  "offset": 2125,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerPriortizable.swift",
+  "offset": 2464,
+  "remove": 6,
+  "text": "open",
+ }
+]

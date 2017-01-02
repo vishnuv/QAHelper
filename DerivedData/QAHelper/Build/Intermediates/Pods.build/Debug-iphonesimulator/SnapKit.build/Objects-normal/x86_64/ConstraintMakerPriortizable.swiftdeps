@@ -1,0 +1,69 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstraintMakerPriortizable"
+provides-nominal:
+- "C7SnapKit27ConstraintMakerPriortizable"
+provides-member:
+- ["C7SnapKit27ConstraintMakerPriortizable", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ConstraintMakerFinalizable"
+- "AssignmentPrecedence"
+- "ConstraintPriorityTarget"
+- "ConstraintMakerPriortizable"
+depends-member:
+- !private ["Ps9AnyObject", "description"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "priority"]
+- ["Ps9AnyObject", "priorityHigh"]
+- ["Ps9AnyObject", "priorityLow"]
+- ["Ps9AnyObject", "priorityMedium"]
+- ["Ps9AnyObject", "priorityRequired"]
+- ["Ps9AnyObject", ""]
+- ["C7SnapKit21ConstraintDescription", "deinit"]
+- !private ["C7SnapKit21ConstraintDescription", "priority"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "ConstraintMakerFinalizable"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "ConstraintPriorityTarget"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "deinit"]
+- !private ["C7SnapKit26ConstraintMakerFinalizable", "description"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "init"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "priority"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "priorityHigh"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "priorityLow"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "priorityMedium"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "priorityRequired"]
+- ["C7SnapKit26ConstraintMakerFinalizable", ""]
+- ["C7SnapKit27ConstraintMakerPriortizable", "ConstraintMakerFinalizable"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "ConstraintPriorityTarget"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "deinit"]
+- !private ["C7SnapKit27ConstraintMakerPriortizable", "description"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "init"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "priority"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "priorityHigh"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "priorityLow"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "priorityMedium"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "priorityRequired"]
+- ["P7SnapKit24ConstraintPriorityTarget", "deinit"]
+- ["Si", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "C7SnapKit21ConstraintDescription"
+- "C7SnapKit26ConstraintMakerFinalizable"
+- "C7SnapKit27ConstraintMakerPriortizable"
+- "P7SnapKit24ConstraintPriorityTarget"
+- "Si"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "7fab102030f8d7b1ec304e182448e7d0"

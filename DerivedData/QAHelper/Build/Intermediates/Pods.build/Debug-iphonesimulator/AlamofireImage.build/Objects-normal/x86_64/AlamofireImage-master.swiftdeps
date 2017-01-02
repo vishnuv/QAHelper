@@ -1,0 +1,13 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "e8c661a919a43e5b11315aa5020fde71"
+build_time: [536664683, 600117000]
+inputs:
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/AFIError.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/Image.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/ImageCache.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/ImageDownloader.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/ImageFilter.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/Request+AlamofireImage.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/UIButton+AlamofireImage.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/UIImage+AlamofireImage.swift": [536664621, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/AlamofireImage/Source/UIImageView+AlamofireImage.swift": [536664621, 0]

@@ -1,0 +1,5 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "56f5ec5074bfb5ee099fdc1d1e4d2f22"
+build_time: [536664227, 352832000]
+inputs:
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/KMPlaceholderTextView/KMPlaceholderTextView/KMPlaceholderTextView.swift": [536664047, 0]

@@ -1,0 +1,14 @@
+[
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/LayoutConstraint.swift",
+  "offset": 1256,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/LayoutConstraint.swift",
+  "offset": 1317,
+  "remove": 6,
+  "text": "open",
+ }
+]

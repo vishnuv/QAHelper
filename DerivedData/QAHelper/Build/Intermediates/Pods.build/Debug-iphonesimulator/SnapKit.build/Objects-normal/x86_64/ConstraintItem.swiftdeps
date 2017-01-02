@@ -1,0 +1,89 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstraintItem"
+- "=="
+provides-nominal:
+- "C7SnapKit14ConstraintItem"
+provides-member:
+- ["C7SnapKit14ConstraintItem", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ConstraintItem"
+- "Equatable"
+- !private "BooleanLiteralType"
+- !private "!=="
+- !private "==="
+- "ConstraintView"
+- "AnyObject"
+- "ConstraintAttributes"
+- "CastingPrecedence"
+- "=="
+- "AssignmentPrecedence"
+- !private "&&"
+- "Bool"
+depends-member:
+- !private ["Ps9AnyObject", "attributes"]
+- ["Ps9AnyObject", "deinit"]
+- !private ["Ps9AnyObject", "target"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["V7SnapKit20ConstraintAttributes", "deinit"]
+- ["C7SnapKit14ConstraintItem", "AnyObject"]
+- ["C7SnapKit14ConstraintItem", "ConstraintAttributes"]
+- ["C7SnapKit14ConstraintItem", "ConstraintView"]
+- ["C7SnapKit14ConstraintItem", "attributes"]
+- ["C7SnapKit14ConstraintItem", "deinit"]
+- ["C7SnapKit14ConstraintItem", "init"]
+- ["C7SnapKit14ConstraintItem", "target"]
+- ["C7SnapKit14ConstraintItem", "view"]
+- !private ["P7SnapKit25ConstraintRelatableTarget", "attributes"]
+- !private ["P7SnapKit25ConstraintRelatableTarget", "target"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "attributes"]
+- !private ["Ps9Equatable", "target"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Sq", "deinit"]
+- ["CSo6UIView", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "V7SnapKit20ConstraintAttributes"
+- "C7SnapKit14ConstraintItem"
+- !private "P7SnapKit25ConstraintRelatableTarget"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- "Sq"
+- "CSo6UIView"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "b77bdb86ad8ee6d27a455f2f984c83af"

@@ -1,0 +1,124 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstraintDescription"
+provides-nominal:
+- "C7SnapKit21ConstraintDescription"
+provides-member:
+- ["C7SnapKit21ConstraintDescription", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ConstraintMultiplierTarget"
+- "ConstraintPriorityTarget"
+- "String"
+- "UInt"
+- "AssignmentPrecedence"
+- "ConstraintConstantTarget"
+- "ConstraintAttributes"
+- "ConstraintDescription"
+- "ConstraintRelation"
+- "ConstraintItem"
+- "ConstraintView"
+- "Constraint"
+depends-member:
+- !private ["Ps9AnyObject", "Constraint"]
+- !private ["Ps9AnyObject", "ConstraintItem"]
+- !private ["Ps9AnyObject", "attributes"]
+- !private ["Ps9AnyObject", "constant"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "label"]
+- !private ["Ps9AnyObject", "multiplier"]
+- !private ["Ps9AnyObject", "priority"]
+- !private ["Ps9AnyObject", "related"]
+- !private ["Ps9AnyObject", "relation"]
+- !private ["Ps9AnyObject", "sourceLocation"]
+- !private ["Ps9AnyObject", "view"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["C7SnapKit10Constraint", "deinit"]
+- !private ["C7SnapKit10Constraint", "init"]
+- ["V7SnapKit20ConstraintAttributes", "deinit"]
+- ["P7SnapKit24ConstraintConstantTarget", "deinit"]
+- ["C7SnapKit21ConstraintDescription", "Constraint"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintAttributes"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintConstantTarget"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintItem"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintMultiplierTarget"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintPriorityTarget"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintRelation"]
+- ["C7SnapKit21ConstraintDescription", "ConstraintView"]
+- ["C7SnapKit21ConstraintDescription", "String"]
+- ["C7SnapKit21ConstraintDescription", "UInt"]
+- ["C7SnapKit21ConstraintDescription", "attributes"]
+- ["C7SnapKit21ConstraintDescription", "constant"]
+- ["C7SnapKit21ConstraintDescription", "constraint"]
+- !private ["C7SnapKit21ConstraintDescription", "constraint.storage"]
+- ["C7SnapKit21ConstraintDescription", "deinit"]
+- ["C7SnapKit21ConstraintDescription", "init"]
+- ["C7SnapKit21ConstraintDescription", "label"]
+- ["C7SnapKit21ConstraintDescription", "multiplier"]
+- ["C7SnapKit21ConstraintDescription", "priority"]
+- ["C7SnapKit21ConstraintDescription", "related"]
+- ["C7SnapKit21ConstraintDescription", "relation"]
+- ["C7SnapKit21ConstraintDescription", "sourceLocation"]
+- ["C7SnapKit21ConstraintDescription", "view"]
+- !private ["C7SnapKit14ConstraintItem", "deinit"]
+- !private ["C7SnapKit14ConstraintItem", "init"]
+- ["P7SnapKit26ConstraintMultiplierTarget", "deinit"]
+- ["P7SnapKit24ConstraintPriorityTarget", "deinit"]
+- !private ["P7SnapKit25ConstraintRelatableTarget", "init"]
+- !private ["O7SnapKit18ConstraintRelation", "deinit"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- ["Sq", "deinit"]
+- ["CSo6UIView", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- !private "C7SnapKit10Constraint"
+- "V7SnapKit20ConstraintAttributes"
+- "P7SnapKit24ConstraintConstantTarget"
+- "C7SnapKit21ConstraintDescription"
+- !private "C7SnapKit14ConstraintItem"
+- "P7SnapKit26ConstraintMultiplierTarget"
+- "P7SnapKit24ConstraintPriorityTarget"
+- !private "P7SnapKit25ConstraintRelatableTarget"
+- !private "O7SnapKit18ConstraintRelation"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Sd"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Ps8Hashable"
+- !private "Ps25LosslessStringConvertible"
+- "Sq"
+- "CSo6UIView"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "e2603fb8f0981770343626389f8ee562"

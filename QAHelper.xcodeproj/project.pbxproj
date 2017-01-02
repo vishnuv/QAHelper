@@ -1,0 +1,789 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		277C4DF41E1A4C2100775EFC /* QAHelper.h in Headers */ = {isa = PBXBuildFile; fileRef = 277C4DF21E1A4C2100775EFC /* QAHelper.h */; settings = {ATTRIBUTES = (Public, ); }; };
+		277C4EEB1E1A5B1400775EFC /* AnnotationViewAdapter.h in Headers */ = {isa = PBXBuildFile; fileRef = 277C4E961E1A5B1400775EFC /* AnnotationViewAdapter.h */; };
+		277C4EEC1E1A5B1400775EFC /* AnnotationViewAdapter.m in Sources */ = {isa = PBXBuildFile; fileRef = 277C4E971E1A5B1400775EFC /* AnnotationViewAdapter.m */; };
+		277C4EED1E1A5B1400775EFC /* PhotoAlbumHelper.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4E981E1A5B1400775EFC /* PhotoAlbumHelper.swift */; };
+		277C4EEE1E1A5B1400775EFC /* QAHelper-Bridging-Header.h in Headers */ = {isa = PBXBuildFile; fileRef = 277C4E991E1A5B1400775EFC /* QAHelper-Bridging-Header.h */; };
+		277C4EEF1E1A5B1400775EFC /* QAHelperController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4E9A1E1A5B1400775EFC /* QAHelperController.swift */; };
+		277C4EF01E1A5B1400775EFC /* SaveImageActivity.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4E9B1E1A5B1400775EFC /* SaveImageActivity.swift */; };
+		277C4EF11E1A5B1400775EFC /* CrashController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4E9D1E1A5B1400775EFC /* CrashController.swift */; };
+		277C4EF21E1A5B1400775EFC /* CreateIssueAssigneeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4E9F1E1A5B1400775EFC /* CreateIssueAssigneeCell.swift */; };
+		277C4EF31E1A5B1400775EFC /* CreateIssueImagePreviewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA01E1A5B1400775EFC /* CreateIssueImagePreviewCell.swift */; };
+		277C4EF41E1A5B1400775EFC /* CreateIssueSummaryDescriptionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA11E1A5B1400775EFC /* CreateIssueSummaryDescriptionCell.swift */; };
+		277C4EF51E1A5B1400775EFC /* IssueAttachmentCollectionViewCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA21E1A5B1400775EFC /* IssueAttachmentCollectionViewCell.swift */; };
+		277C4EF61E1A5B1400775EFC /* IssueCommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA31E1A5B1400775EFC /* IssueCommentCell.swift */; };
+		277C4EF71E1A5B1400775EFC /* IssueCommentCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EA41E1A5B1400775EFC /* IssueCommentCell.xib */; };
+		277C4EF81E1A5B1400775EFC /* IssueDetailsAssigneeCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA51E1A5B1400775EFC /* IssueDetailsAssigneeCell.swift */; };
+		277C4EF91E1A5B1400775EFC /* IssueDetailsDescriptionCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA61E1A5B1400775EFC /* IssueDetailsDescriptionCell.swift */; };
+		277C4EFA1E1A5B1400775EFC /* IssueDetailsHeaderCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA71E1A5B1400775EFC /* IssueDetailsHeaderCell.swift */; };
+		277C4EFB1E1A5B1400775EFC /* IssueDetilsAttachmentsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA81E1A5B1400775EFC /* IssueDetilsAttachmentsCell.swift */; };
+		277C4EFC1E1A5B1400775EFC /* IssueListCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EA91E1A5B1400775EFC /* IssueListCell.swift */; };
+		277C4EFD1E1A5B1400775EFC /* IssueListCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EAA1E1A5B1400775EFC /* IssueListCell.xib */; };
+		277C4EFE1E1A5B1400775EFC /* LoadingView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EAB1E1A5B1400775EFC /* LoadingView.xib */; };
+		277C4EFF1E1A5B1400775EFC /* MiscCell.xib in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EAC1E1A5B1400775EFC /* MiscCell.xib */; };
+		277C4F001E1A5B1400775EFC /* ColorPickerOptionsView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EAE1E1A5B1400775EFC /* ColorPickerOptionsView.swift */; };
+		277C4F011E1A5B1400775EFC /* ColorPickerView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EAF1E1A5B1400775EFC /* ColorPickerView.swift */; };
+		277C4F021E1A5B1400775EFC /* OpacitySelectionSlider.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EB01E1A5B1400775EFC /* OpacitySelectionSlider.swift */; };
+		277C4F031E1A5B1400775EFC /* Constants.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EB21E1A5B1400775EFC /* Constants.swift */; };
+		277C4F041E1A5B1400775EFC /* Util.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EB31E1A5B1400775EFC /* Util.swift */; };
+		277C4F051E1A5B1400775EFC /* ApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EB61E1A5B1400775EFC /* ApiManager.swift */; };
+		277C4F061E1A5B1400775EFC /* AddAttachmentApiManger.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EB81E1A5B1400775EFC /* AddAttachmentApiManger.swift */; };
+		277C4F071E1A5B1400775EFC /* AddAttachmentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EB91E1A5B1400775EFC /* AddAttachmentResponse.swift */; };
+		277C4F081E1A5B1400775EFC /* AddCommentApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EBB1E1A5B1400775EFC /* AddCommentApiManager.swift */; };
+		277C4F091E1A5B1400775EFC /* AddCommentResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EBC1E1A5B1400775EFC /* AddCommentResponse.swift */; };
+		277C4F0A1E1A5B1400775EFC /* GetAllIssuesApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EBE1E1A5B1400775EFC /* GetAllIssuesApiManager.swift */; };
+		277C4F0B1E1A5B1400775EFC /* GetAllIssuesResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EBF1E1A5B1400775EFC /* GetAllIssuesResponse.swift */; };
+		277C4F0C1E1A5B1400775EFC /* GetAllUsersAPIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EC11E1A5B1400775EFC /* GetAllUsersAPIManager.swift */; };
+		277C4F0D1E1A5B1400775EFC /* User.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EC21E1A5B1400775EFC /* User.swift */; };
+		277C4F0E1E1A5B1400775EFC /* CreateIssueAPIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EC41E1A5B1400775EFC /* CreateIssueAPIManager.swift */; };
+		277C4F0F1E1A5B1400775EFC /* EditIssueApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EC61E1A5B1400775EFC /* EditIssueApiManager.swift */; };
+		277C4F101E1A5B1400775EFC /* EditIssueResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EC71E1A5B1400775EFC /* EditIssueResponse.swift */; };
+		277C4F111E1A5B1400775EFC /* GetIssueStatusResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EC91E1A5B1400775EFC /* GetIssueStatusResponse.swift */; };
+		277C4F121E1A5B1400775EFC /* GetStatusTypesApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ECA1E1A5B1400775EFC /* GetStatusTypesApiManager.swift */; };
+		277C4F131E1A5B1400775EFC /* JiraImageDownloader.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ECB1E1A5B1400775EFC /* JiraImageDownloader.swift */; };
+		277C4F141E1A5B1400775EFC /* Attachment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ECD1E1A5B1400775EFC /* Attachment.swift */; };
+		277C4F151E1A5B1400775EFC /* Avatar.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ECE1E1A5B1400775EFC /* Avatar.swift */; };
+		277C4F161E1A5B1400775EFC /* Comment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ECF1E1A5B1400775EFC /* Comment.swift */; };
+		277C4F171E1A5B1400775EFC /* Creator.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED01E1A5B1400775EFC /* Creator.swift */; };
+		277C4F181E1A5B1400775EFC /* IssueComment.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED11E1A5B1400775EFC /* IssueComment.swift */; };
+		277C4F191E1A5B1400775EFC /* IssueDetailsApiManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED21E1A5B1400775EFC /* IssueDetailsApiManager.swift */; };
+		277C4F1A1E1A5B1400775EFC /* IssueDetailsResponse.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED31E1A5B1400775EFC /* IssueDetailsResponse.swift */; };
+		277C4F1B1E1A5B1400775EFC /* IssueFields.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED41E1A5B1400775EFC /* IssueFields.swift */; };
+		277C4F1C1E1A5B1400775EFC /* IssuePriority.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED51E1A5B1400775EFC /* IssuePriority.swift */; };
+		277C4F1D1E1A5B1400775EFC /* IssueStatus.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED61E1A5B1400775EFC /* IssueStatus.swift */; };
+		277C4F1E1E1A5B1400775EFC /* IssueType.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED71E1A5B1400775EFC /* IssueType.swift */; };
+		277C4F1F1E1A5B1400775EFC /* GetIssueTypesAPIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4ED91E1A5B1400775EFC /* GetIssueTypesAPIManager.swift */; };
+		277C4F201E1A5B1400775EFC /* GetIssueStatusTypesAPIManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EDB1E1A5B1400775EFC /* GetIssueStatusTypesAPIManager.swift */; };
+		277C4F211E1A5B1400775EFC /* JiraAccountDetails.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EDC1E1A5B1400775EFC /* JiraAccountDetails.swift */; };
+		277C4F221E1A5B1400775EFC /* QAHelperAssets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EDD1E1A5B1400775EFC /* QAHelperAssets.xcassets */; };
+		277C4F231E1A5B1400775EFC /* Jira.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EDF1E1A5B1400775EFC /* Jira.storyboard */; };
+		277C4F241E1A5B1400775EFC /* jira1.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EE01E1A5B1400775EFC /* jira1.storyboard */; };
+		277C4F251E1A5B1400775EFC /* QAHelper.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 277C4EE11E1A5B1400775EFC /* QAHelper.storyboard */; };
+		277C4F261E1A5B1400775EFC /* AssigneeListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE31E1A5B1400775EFC /* AssigneeListViewController.swift */; };
+		277C4F271E1A5B1400775EFC /* BaseViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE41E1A5B1400775EFC /* BaseViewController.swift */; };
+		277C4F281E1A5B1400775EFC /* CreateIssueViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE51E1A5B1400775EFC /* CreateIssueViewController.swift */; };
+		277C4F291E1A5B1400775EFC /* FullScreenImageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE61E1A5B1400775EFC /* FullScreenImageViewController.swift */; };
+		277C4F2A1E1A5B1400775EFC /* ImageProcessingContainer.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE71E1A5B1400775EFC /* ImageProcessingContainer.swift */; };
+		277C4F2B1E1A5B1400775EFC /* IssueDetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE81E1A5B1400775EFC /* IssueDetailViewController.swift */; };
+		277C4F2C1E1A5B1400775EFC /* IssuesListViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EE91E1A5B1400775EFC /* IssuesListViewController.swift */; };
+		277C4F2D1E1A5B1400775EFC /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 277C4EEA1E1A5B1400775EFC /* ViewController.swift */; };
+		FA12EA98A0D20FBA7C2D07B7 /* Pods_QAHelper.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 04B2F4608EF5AFF955EF20DA /* Pods_QAHelper.framework */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		04B2F4608EF5AFF955EF20DA /* Pods_QAHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_QAHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		277C4DEF1E1A4C2100775EFC /* QAHelper.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = QAHelper.framework; sourceTree = BUILT_PRODUCTS_DIR; };
+		277C4DF21E1A4C2100775EFC /* QAHelper.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = QAHelper.h; sourceTree = "<group>"; };
+		277C4DF31E1A4C2100775EFC /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		277C4E961E1A5B1400775EFC /* AnnotationViewAdapter.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AnnotationViewAdapter.h; sourceTree = "<group>"; };
+		277C4E971E1A5B1400775EFC /* AnnotationViewAdapter.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AnnotationViewAdapter.m; sourceTree = "<group>"; };
+		277C4E981E1A5B1400775EFC /* PhotoAlbumHelper.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = PhotoAlbumHelper.swift; sourceTree = "<group>"; };
+		277C4E991E1A5B1400775EFC /* QAHelper-Bridging-Header.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "QAHelper-Bridging-Header.h"; sourceTree = "<group>"; };
+		277C4E9A1E1A5B1400775EFC /* QAHelperController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = QAHelperController.swift; sourceTree = "<group>"; };
+		277C4E9B1E1A5B1400775EFC /* SaveImageActivity.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SaveImageActivity.swift; sourceTree = "<group>"; };
+		277C4E9D1E1A5B1400775EFC /* CrashController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CrashController.swift; sourceTree = "<group>"; };
+		277C4E9F1E1A5B1400775EFC /* CreateIssueAssigneeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIssueAssigneeCell.swift; sourceTree = "<group>"; };
+		277C4EA01E1A5B1400775EFC /* CreateIssueImagePreviewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIssueImagePreviewCell.swift; sourceTree = "<group>"; };
+		277C4EA11E1A5B1400775EFC /* CreateIssueSummaryDescriptionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIssueSummaryDescriptionCell.swift; sourceTree = "<group>"; };
+		277C4EA21E1A5B1400775EFC /* IssueAttachmentCollectionViewCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueAttachmentCollectionViewCell.swift; sourceTree = "<group>"; };
+		277C4EA31E1A5B1400775EFC /* IssueCommentCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueCommentCell.swift; sourceTree = "<group>"; };
+		277C4EA41E1A5B1400775EFC /* IssueCommentCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IssueCommentCell.xib; sourceTree = "<group>"; };
+		277C4EA51E1A5B1400775EFC /* IssueDetailsAssigneeCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetailsAssigneeCell.swift; sourceTree = "<group>"; };
+		277C4EA61E1A5B1400775EFC /* IssueDetailsDescriptionCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetailsDescriptionCell.swift; sourceTree = "<group>"; };
+		277C4EA71E1A5B1400775EFC /* IssueDetailsHeaderCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetailsHeaderCell.swift; sourceTree = "<group>"; };
+		277C4EA81E1A5B1400775EFC /* IssueDetilsAttachmentsCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetilsAttachmentsCell.swift; sourceTree = "<group>"; };
+		277C4EA91E1A5B1400775EFC /* IssueListCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueListCell.swift; sourceTree = "<group>"; };
+		277C4EAA1E1A5B1400775EFC /* IssueListCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = IssueListCell.xib; sourceTree = "<group>"; };
+		277C4EAB1E1A5B1400775EFC /* LoadingView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = LoadingView.xib; sourceTree = "<group>"; };
+		277C4EAC1E1A5B1400775EFC /* MiscCell.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = MiscCell.xib; sourceTree = "<group>"; };
+		277C4EAE1E1A5B1400775EFC /* ColorPickerOptionsView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPickerOptionsView.swift; sourceTree = "<group>"; };
+		277C4EAF1E1A5B1400775EFC /* ColorPickerView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ColorPickerView.swift; sourceTree = "<group>"; };
+		277C4EB01E1A5B1400775EFC /* OpacitySelectionSlider.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = OpacitySelectionSlider.swift; sourceTree = "<group>"; };
+		277C4EB21E1A5B1400775EFC /* Constants.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Constants.swift; sourceTree = "<group>"; };
+		277C4EB31E1A5B1400775EFC /* Util.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Util.swift; sourceTree = "<group>"; };
+		277C4EB61E1A5B1400775EFC /* ApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ApiManager.swift; sourceTree = "<group>"; };
+		277C4EB81E1A5B1400775EFC /* AddAttachmentApiManger.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddAttachmentApiManger.swift; sourceTree = "<group>"; };
+		277C4EB91E1A5B1400775EFC /* AddAttachmentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddAttachmentResponse.swift; sourceTree = "<group>"; };
+		277C4EBB1E1A5B1400775EFC /* AddCommentApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddCommentApiManager.swift; sourceTree = "<group>"; };
+		277C4EBC1E1A5B1400775EFC /* AddCommentResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AddCommentResponse.swift; sourceTree = "<group>"; };
+		277C4EBE1E1A5B1400775EFC /* GetAllIssuesApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetAllIssuesApiManager.swift; sourceTree = "<group>"; };
+		277C4EBF1E1A5B1400775EFC /* GetAllIssuesResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetAllIssuesResponse.swift; sourceTree = "<group>"; };
+		277C4EC11E1A5B1400775EFC /* GetAllUsersAPIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetAllUsersAPIManager.swift; sourceTree = "<group>"; };
+		277C4EC21E1A5B1400775EFC /* User.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = User.swift; sourceTree = "<group>"; };
+		277C4EC41E1A5B1400775EFC /* CreateIssueAPIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIssueAPIManager.swift; sourceTree = "<group>"; };
+		277C4EC61E1A5B1400775EFC /* EditIssueApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditIssueApiManager.swift; sourceTree = "<group>"; };
+		277C4EC71E1A5B1400775EFC /* EditIssueResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = EditIssueResponse.swift; sourceTree = "<group>"; };
+		277C4EC91E1A5B1400775EFC /* GetIssueStatusResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetIssueStatusResponse.swift; sourceTree = "<group>"; };
+		277C4ECA1E1A5B1400775EFC /* GetStatusTypesApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetStatusTypesApiManager.swift; sourceTree = "<group>"; };
+		277C4ECB1E1A5B1400775EFC /* JiraImageDownloader.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JiraImageDownloader.swift; sourceTree = "<group>"; };
+		277C4ECD1E1A5B1400775EFC /* Attachment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Attachment.swift; sourceTree = "<group>"; };
+		277C4ECE1E1A5B1400775EFC /* Avatar.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Avatar.swift; sourceTree = "<group>"; };
+		277C4ECF1E1A5B1400775EFC /* Comment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Comment.swift; sourceTree = "<group>"; };
+		277C4ED01E1A5B1400775EFC /* Creator.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Creator.swift; sourceTree = "<group>"; };
+		277C4ED11E1A5B1400775EFC /* IssueComment.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueComment.swift; sourceTree = "<group>"; };
+		277C4ED21E1A5B1400775EFC /* IssueDetailsApiManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetailsApiManager.swift; sourceTree = "<group>"; };
+		277C4ED31E1A5B1400775EFC /* IssueDetailsResponse.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetailsResponse.swift; sourceTree = "<group>"; };
+		277C4ED41E1A5B1400775EFC /* IssueFields.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueFields.swift; sourceTree = "<group>"; };
+		277C4ED51E1A5B1400775EFC /* IssuePriority.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssuePriority.swift; sourceTree = "<group>"; };
+		277C4ED61E1A5B1400775EFC /* IssueStatus.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueStatus.swift; sourceTree = "<group>"; };
+		277C4ED71E1A5B1400775EFC /* IssueType.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueType.swift; sourceTree = "<group>"; };
+		277C4ED91E1A5B1400775EFC /* GetIssueTypesAPIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetIssueTypesAPIManager.swift; sourceTree = "<group>"; };
+		277C4EDB1E1A5B1400775EFC /* GetIssueStatusTypesAPIManager.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GetIssueStatusTypesAPIManager.swift; sourceTree = "<group>"; };
+		277C4EDC1E1A5B1400775EFC /* JiraAccountDetails.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = JiraAccountDetails.swift; sourceTree = "<group>"; };
+		277C4EDD1E1A5B1400775EFC /* QAHelperAssets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = QAHelperAssets.xcassets; sourceTree = "<group>"; };
+		277C4EDF1E1A5B1400775EFC /* Jira.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = Jira.storyboard; sourceTree = "<group>"; };
+		277C4EE01E1A5B1400775EFC /* jira1.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = jira1.storyboard; sourceTree = "<group>"; };
+		277C4EE11E1A5B1400775EFC /* QAHelper.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; path = QAHelper.storyboard; sourceTree = "<group>"; };
+		277C4EE31E1A5B1400775EFC /* AssigneeListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AssigneeListViewController.swift; sourceTree = "<group>"; };
+		277C4EE41E1A5B1400775EFC /* BaseViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BaseViewController.swift; sourceTree = "<group>"; };
+		277C4EE51E1A5B1400775EFC /* CreateIssueViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateIssueViewController.swift; sourceTree = "<group>"; };
+		277C4EE61E1A5B1400775EFC /* FullScreenImageViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FullScreenImageViewController.swift; sourceTree = "<group>"; };
+		277C4EE71E1A5B1400775EFC /* ImageProcessingContainer.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ImageProcessingContainer.swift; sourceTree = "<group>"; };
+		277C4EE81E1A5B1400775EFC /* IssueDetailViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssueDetailViewController.swift; sourceTree = "<group>"; };
+		277C4EE91E1A5B1400775EFC /* IssuesListViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = IssuesListViewController.swift; sourceTree = "<group>"; };
+		277C4EEA1E1A5B1400775EFC /* ViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		81925D7E7934B9F8B5E7EEA3 /* Pods-QAHelper.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QAHelper.debug.xcconfig"; path = "Pods/Target Support Files/Pods-QAHelper/Pods-QAHelper.debug.xcconfig"; sourceTree = "<group>"; };
+		C650DEE1BB3B899CF16397B1 /* Pods-QAHelper.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-QAHelper.release.xcconfig"; path = "Pods/Target Support Files/Pods-QAHelper/Pods-QAHelper.release.xcconfig"; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		277C4DEB1E1A4C2100775EFC /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				FA12EA98A0D20FBA7C2D07B7 /* Pods_QAHelper.framework in Frameworks */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		0814372D919AD4CC0658A517 /* Frameworks */ = {
+			isa = PBXGroup;
+			children = (
+				04B2F4608EF5AFF955EF20DA /* Pods_QAHelper.framework */,
+			);
+			name = Frameworks;
+			sourceTree = "<group>";
+		};
+		2172EB8B965BEDF4B30A6CDC /* Pods */ = {
+			isa = PBXGroup;
+			children = (
+				81925D7E7934B9F8B5E7EEA3 /* Pods-QAHelper.debug.xcconfig */,
+				C650DEE1BB3B899CF16397B1 /* Pods-QAHelper.release.xcconfig */,
+			);
+			name = Pods;
+			sourceTree = "<group>";
+		};
+		277C4DE51E1A4C2100775EFC = {
+			isa = PBXGroup;
+			children = (
+				277C4DF11E1A4C2100775EFC /* QAHelper */,
+				277C4DF01E1A4C2100775EFC /* Products */,
+				2172EB8B965BEDF4B30A6CDC /* Pods */,
+				0814372D919AD4CC0658A517 /* Frameworks */,
+			);
+			sourceTree = "<group>";
+		};
+		277C4DF01E1A4C2100775EFC /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				277C4DEF1E1A4C2100775EFC /* QAHelper.framework */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		277C4DF11E1A4C2100775EFC /* QAHelper */ = {
+			isa = PBXGroup;
+			children = (
+				277C4E941E1A5B1400775EFC /* Classes */,
+				277C4DF21E1A4C2100775EFC /* QAHelper.h */,
+				277C4DF31E1A4C2100775EFC /* Info.plist */,
+			);
+			path = QAHelper;
+			sourceTree = "<group>";
+		};
+		277C4E941E1A5B1400775EFC /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				277C4E951E1A5B1400775EFC /* Controllers */,
+				277C4E9C1E1A5B1400775EFC /* Crash */,
+				277C4E9E1E1A5B1400775EFC /* CustomCells */,
+				277C4EAD1E1A5B1400775EFC /* CustomViews */,
+				277C4EB11E1A5B1400775EFC /* Helpers */,
+				277C4EB41E1A5B1400775EFC /* Models */,
+				277C4EDD1E1A5B1400775EFC /* QAHelperAssets.xcassets */,
+				277C4EDE1E1A5B1400775EFC /* Storyboards */,
+				277C4EE21E1A5B1400775EFC /* ViewControllers */,
+			);
+			path = Classes;
+			sourceTree = "<group>";
+		};
+		277C4E951E1A5B1400775EFC /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				277C4E961E1A5B1400775EFC /* AnnotationViewAdapter.h */,
+				277C4E971E1A5B1400775EFC /* AnnotationViewAdapter.m */,
+				277C4E981E1A5B1400775EFC /* PhotoAlbumHelper.swift */,
+				277C4E991E1A5B1400775EFC /* QAHelper-Bridging-Header.h */,
+				277C4E9A1E1A5B1400775EFC /* QAHelperController.swift */,
+				277C4E9B1E1A5B1400775EFC /* SaveImageActivity.swift */,
+			);
+			path = Controllers;
+			sourceTree = "<group>";
+		};
+		277C4E9C1E1A5B1400775EFC /* Crash */ = {
+			isa = PBXGroup;
+			children = (
+				277C4E9D1E1A5B1400775EFC /* CrashController.swift */,
+			);
+			path = Crash;
+			sourceTree = "<group>";
+		};
+		277C4E9E1E1A5B1400775EFC /* CustomCells */ = {
+			isa = PBXGroup;
+			children = (
+				277C4E9F1E1A5B1400775EFC /* CreateIssueAssigneeCell.swift */,
+				277C4EA01E1A5B1400775EFC /* CreateIssueImagePreviewCell.swift */,
+				277C4EA11E1A5B1400775EFC /* CreateIssueSummaryDescriptionCell.swift */,
+				277C4EA21E1A5B1400775EFC /* IssueAttachmentCollectionViewCell.swift */,
+				277C4EA31E1A5B1400775EFC /* IssueCommentCell.swift */,
+				277C4EA41E1A5B1400775EFC /* IssueCommentCell.xib */,
+				277C4EA51E1A5B1400775EFC /* IssueDetailsAssigneeCell.swift */,
+				277C4EA61E1A5B1400775EFC /* IssueDetailsDescriptionCell.swift */,
+				277C4EA71E1A5B1400775EFC /* IssueDetailsHeaderCell.swift */,
+				277C4EA81E1A5B1400775EFC /* IssueDetilsAttachmentsCell.swift */,
+				277C4EA91E1A5B1400775EFC /* IssueListCell.swift */,
+				277C4EAA1E1A5B1400775EFC /* IssueListCell.xib */,
+				277C4EAB1E1A5B1400775EFC /* LoadingView.xib */,
+				277C4EAC1E1A5B1400775EFC /* MiscCell.xib */,
+			);
+			path = CustomCells;
+			sourceTree = "<group>";
+		};
+		277C4EAD1E1A5B1400775EFC /* CustomViews */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EAE1E1A5B1400775EFC /* ColorPickerOptionsView.swift */,
+				277C4EAF1E1A5B1400775EFC /* ColorPickerView.swift */,
+				277C4EB01E1A5B1400775EFC /* OpacitySelectionSlider.swift */,
+			);
+			path = CustomViews;
+			sourceTree = "<group>";
+		};
+		277C4EB11E1A5B1400775EFC /* Helpers */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EB21E1A5B1400775EFC /* Constants.swift */,
+				277C4EB31E1A5B1400775EFC /* Util.swift */,
+			);
+			path = Helpers;
+			sourceTree = "<group>";
+		};
+		277C4EB41E1A5B1400775EFC /* Models */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EB51E1A5B1400775EFC /* Api */,
+				277C4EDC1E1A5B1400775EFC /* JiraAccountDetails.swift */,
+			);
+			path = Models;
+			sourceTree = "<group>";
+		};
+		277C4EB51E1A5B1400775EFC /* Api */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EB61E1A5B1400775EFC /* ApiManager.swift */,
+				277C4EB71E1A5B1400775EFC /* JiraAddAttachment */,
+				277C4EBA1E1A5B1400775EFC /* JiraAddComment */,
+				277C4EBD1E1A5B1400775EFC /* JiraAllIssues */,
+				277C4EC01E1A5B1400775EFC /* JiraAllUsers */,
+				277C4EC31E1A5B1400775EFC /* JiraCreateIssue */,
+				277C4EC51E1A5B1400775EFC /* JiraEditIssue */,
+				277C4EC81E1A5B1400775EFC /* JiraGetIssueStatus */,
+				277C4ECB1E1A5B1400775EFC /* JiraImageDownloader.swift */,
+				277C4ECC1E1A5B1400775EFC /* JiraIssueDetails */,
+				277C4ED81E1A5B1400775EFC /* JiraIssueTypes */,
+				277C4EDA1E1A5B1400775EFC /* JiraStatusTypes */,
+			);
+			path = Api;
+			sourceTree = "<group>";
+		};
+		277C4EB71E1A5B1400775EFC /* JiraAddAttachment */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EB81E1A5B1400775EFC /* AddAttachmentApiManger.swift */,
+				277C4EB91E1A5B1400775EFC /* AddAttachmentResponse.swift */,
+			);
+			path = JiraAddAttachment;
+			sourceTree = "<group>";
+		};
+		277C4EBA1E1A5B1400775EFC /* JiraAddComment */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EBB1E1A5B1400775EFC /* AddCommentApiManager.swift */,
+				277C4EBC1E1A5B1400775EFC /* AddCommentResponse.swift */,
+			);
+			path = JiraAddComment;
+			sourceTree = "<group>";
+		};
+		277C4EBD1E1A5B1400775EFC /* JiraAllIssues */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EBE1E1A5B1400775EFC /* GetAllIssuesApiManager.swift */,
+				277C4EBF1E1A5B1400775EFC /* GetAllIssuesResponse.swift */,
+			);
+			path = JiraAllIssues;
+			sourceTree = "<group>";
+		};
+		277C4EC01E1A5B1400775EFC /* JiraAllUsers */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EC11E1A5B1400775EFC /* GetAllUsersAPIManager.swift */,
+				277C4EC21E1A5B1400775EFC /* User.swift */,
+			);
+			path = JiraAllUsers;
+			sourceTree = "<group>";
+		};
+		277C4EC31E1A5B1400775EFC /* JiraCreateIssue */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EC41E1A5B1400775EFC /* CreateIssueAPIManager.swift */,
+			);
+			path = JiraCreateIssue;
+			sourceTree = "<group>";
+		};
+		277C4EC51E1A5B1400775EFC /* JiraEditIssue */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EC61E1A5B1400775EFC /* EditIssueApiManager.swift */,
+				277C4EC71E1A5B1400775EFC /* EditIssueResponse.swift */,
+			);
+			path = JiraEditIssue;
+			sourceTree = "<group>";
+		};
+		277C4EC81E1A5B1400775EFC /* JiraGetIssueStatus */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EC91E1A5B1400775EFC /* GetIssueStatusResponse.swift */,
+				277C4ECA1E1A5B1400775EFC /* GetStatusTypesApiManager.swift */,
+			);
+			path = JiraGetIssueStatus;
+			sourceTree = "<group>";
+		};
+		277C4ECC1E1A5B1400775EFC /* JiraIssueDetails */ = {
+			isa = PBXGroup;
+			children = (
+				277C4ECD1E1A5B1400775EFC /* Attachment.swift */,
+				277C4ECE1E1A5B1400775EFC /* Avatar.swift */,
+				277C4ECF1E1A5B1400775EFC /* Comment.swift */,
+				277C4ED01E1A5B1400775EFC /* Creator.swift */,
+				277C4ED11E1A5B1400775EFC /* IssueComment.swift */,
+				277C4ED21E1A5B1400775EFC /* IssueDetailsApiManager.swift */,
+				277C4ED31E1A5B1400775EFC /* IssueDetailsResponse.swift */,
+				277C4ED41E1A5B1400775EFC /* IssueFields.swift */,
+				277C4ED51E1A5B1400775EFC /* IssuePriority.swift */,
+				277C4ED61E1A5B1400775EFC /* IssueStatus.swift */,
+				277C4ED71E1A5B1400775EFC /* IssueType.swift */,
+			);
+			path = JiraIssueDetails;
+			sourceTree = "<group>";
+		};
+		277C4ED81E1A5B1400775EFC /* JiraIssueTypes */ = {
+			isa = PBXGroup;
+			children = (
+				277C4ED91E1A5B1400775EFC /* GetIssueTypesAPIManager.swift */,
+			);
+			path = JiraIssueTypes;
+			sourceTree = "<group>";
+		};
+		277C4EDA1E1A5B1400775EFC /* JiraStatusTypes */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EDB1E1A5B1400775EFC /* GetIssueStatusTypesAPIManager.swift */,
+			);
+			path = JiraStatusTypes;
+			sourceTree = "<group>";
+		};
+		277C4EDE1E1A5B1400775EFC /* Storyboards */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EDF1E1A5B1400775EFC /* Jira.storyboard */,
+				277C4EE01E1A5B1400775EFC /* jira1.storyboard */,
+				277C4EE11E1A5B1400775EFC /* QAHelper.storyboard */,
+			);
+			path = Storyboards;
+			sourceTree = "<group>";
+		};
+		277C4EE21E1A5B1400775EFC /* ViewControllers */ = {
+			isa = PBXGroup;
+			children = (
+				277C4EE31E1A5B1400775EFC /* AssigneeListViewController.swift */,
+				277C4EE41E1A5B1400775EFC /* BaseViewController.swift */,
+				277C4EE51E1A5B1400775EFC /* CreateIssueViewController.swift */,
+				277C4EE61E1A5B1400775EFC /* FullScreenImageViewController.swift */,
+				277C4EE71E1A5B1400775EFC /* ImageProcessingContainer.swift */,
+				277C4EE81E1A5B1400775EFC /* IssueDetailViewController.swift */,
+				277C4EE91E1A5B1400775EFC /* IssuesListViewController.swift */,
+				277C4EEA1E1A5B1400775EFC /* ViewController.swift */,
+			);
+			path = ViewControllers;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXHeadersBuildPhase section */
+		277C4DEC1E1A4C2100775EFC /* Headers */ = {
+			isa = PBXHeadersBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				277C4EEB1E1A5B1400775EFC /* AnnotationViewAdapter.h in Headers */,
+				277C4EEE1E1A5B1400775EFC /* QAHelper-Bridging-Header.h in Headers */,
+				277C4DF41E1A4C2100775EFC /* QAHelper.h in Headers */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXHeadersBuildPhase section */
+
+/* Begin PBXNativeTarget section */
+		277C4DEE1E1A4C2100775EFC /* QAHelper */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 277C4DF71E1A4C2100775EFC /* Build configuration list for PBXNativeTarget "QAHelper" */;
+			buildPhases = (
+				2EF6458F3F10CC3CB51B5E02 /* [CP] Check Pods Manifest.lock */,
+				277C4DEA1E1A4C2100775EFC /* Sources */,
+				277C4DEB1E1A4C2100775EFC /* Frameworks */,
+				277C4DEC1E1A4C2100775EFC /* Headers */,
+				277C4DED1E1A4C2100775EFC /* Resources */,
+				147268F8AAF505F7A6A6604D /* [CP] Copy Pods Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = QAHelper;
+			productName = QAHelper;
+			productReference = 277C4DEF1E1A4C2100775EFC /* QAHelper.framework */;
+			productType = "com.apple.product-type.framework";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		277C4DE61E1A4C2100775EFC /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastUpgradeCheck = 0820;
+				ORGANIZATIONNAME = QBurst;
+				TargetAttributes = {
+					277C4DEE1E1A4C2100775EFC = {
+						CreatedOnToolsVersion = 8.2;
+						LastSwiftMigration = 0820;
+						ProvisioningStyle = Automatic;
+					};
+				};
+			};
+			buildConfigurationList = 277C4DE91E1A4C2100775EFC /* Build configuration list for PBXProject "QAHelper" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+			);
+			mainGroup = 277C4DE51E1A4C2100775EFC;
+			productRefGroup = 277C4DF01E1A4C2100775EFC /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				277C4DEE1E1A4C2100775EFC /* QAHelper */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		277C4DED1E1A4C2100775EFC /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				277C4F231E1A5B1400775EFC /* Jira.storyboard in Resources */,
+				277C4EFE1E1A5B1400775EFC /* LoadingView.xib in Resources */,
+				277C4EFF1E1A5B1400775EFC /* MiscCell.xib in Resources */,
+				277C4F221E1A5B1400775EFC /* QAHelperAssets.xcassets in Resources */,
+				277C4F251E1A5B1400775EFC /* QAHelper.storyboard in Resources */,
+				277C4EF71E1A5B1400775EFC /* IssueCommentCell.xib in Resources */,
+				277C4F241E1A5B1400775EFC /* jira1.storyboard in Resources */,
+				277C4EFD1E1A5B1400775EFC /* IssueListCell.xib in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXShellScriptBuildPhase section */
+		147268F8AAF505F7A6A6604D /* [CP] Copy Pods Resources */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Copy Pods Resources";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "\"${SRCROOT}/Pods/Target Support Files/Pods-QAHelper/Pods-QAHelper-resources.sh\"\n";
+			showEnvVarsInLog = 0;
+		};
+		2EF6458F3F10CC3CB51B5E02 /* [CP] Check Pods Manifest.lock */ = {
+			isa = PBXShellScriptBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			inputPaths = (
+			);
+			name = "[CP] Check Pods Manifest.lock";
+			outputPaths = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+			shellPath = /bin/sh;
+			shellScript = "diff \"${PODS_ROOT}/../Podfile.lock\" \"${PODS_ROOT}/Manifest.lock\" > /dev/null\nif [ $? != 0 ] ; then\n    # print error to STDERR\n    echo \"error: The sandbox is not in sync with the Podfile.lock. Run 'pod install' or update your CocoaPods installation.\" >&2\n    exit 1\nfi\n";
+			showEnvVarsInLog = 0;
+		};
+/* End PBXShellScriptBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		277C4DEA1E1A4C2100775EFC /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				277C4F131E1A5B1400775EFC /* JiraImageDownloader.swift in Sources */,
+				277C4F071E1A5B1400775EFC /* AddAttachmentResponse.swift in Sources */,
+				277C4EFB1E1A5B1400775EFC /* IssueDetilsAttachmentsCell.swift in Sources */,
+				277C4F061E1A5B1400775EFC /* AddAttachmentApiManger.swift in Sources */,
+				277C4F191E1A5B1400775EFC /* IssueDetailsApiManager.swift in Sources */,
+				277C4F1C1E1A5B1400775EFC /* IssuePriority.swift in Sources */,
+				277C4F261E1A5B1400775EFC /* AssigneeListViewController.swift in Sources */,
+				277C4F031E1A5B1400775EFC /* Constants.swift in Sources */,
+				277C4EF21E1A5B1400775EFC /* CreateIssueAssigneeCell.swift in Sources */,
+				277C4EF41E1A5B1400775EFC /* CreateIssueSummaryDescriptionCell.swift in Sources */,
+				277C4F011E1A5B1400775EFC /* ColorPickerView.swift in Sources */,
+				277C4EFC1E1A5B1400775EFC /* IssueListCell.swift in Sources */,
+				277C4F1F1E1A5B1400775EFC /* GetIssueTypesAPIManager.swift in Sources */,
+				277C4F0D1E1A5B1400775EFC /* User.swift in Sources */,
+				277C4F201E1A5B1400775EFC /* GetIssueStatusTypesAPIManager.swift in Sources */,
+				277C4F0B1E1A5B1400775EFC /* GetAllIssuesResponse.swift in Sources */,
+				277C4F2C1E1A5B1400775EFC /* IssuesListViewController.swift in Sources */,
+				277C4EF11E1A5B1400775EFC /* CrashController.swift in Sources */,
+				277C4F041E1A5B1400775EFC /* Util.swift in Sources */,
+				277C4EED1E1A5B1400775EFC /* PhotoAlbumHelper.swift in Sources */,
+				277C4EF01E1A5B1400775EFC /* SaveImageActivity.swift in Sources */,
+				277C4F051E1A5B1400775EFC /* ApiManager.swift in Sources */,
+				277C4F121E1A5B1400775EFC /* GetStatusTypesApiManager.swift in Sources */,
+				277C4F151E1A5B1400775EFC /* Avatar.swift in Sources */,
+				277C4EF31E1A5B1400775EFC /* CreateIssueImagePreviewCell.swift in Sources */,
+				277C4F1B1E1A5B1400775EFC /* IssueFields.swift in Sources */,
+				277C4F1D1E1A5B1400775EFC /* IssueStatus.swift in Sources */,
+				277C4F101E1A5B1400775EFC /* EditIssueResponse.swift in Sources */,
+				277C4F081E1A5B1400775EFC /* AddCommentApiManager.swift in Sources */,
+				277C4F1E1E1A5B1400775EFC /* IssueType.swift in Sources */,
+				277C4F0A1E1A5B1400775EFC /* GetAllIssuesApiManager.swift in Sources */,
+				277C4F0E1E1A5B1400775EFC /* CreateIssueAPIManager.swift in Sources */,
+				277C4F291E1A5B1400775EFC /* FullScreenImageViewController.swift in Sources */,
+				277C4F091E1A5B1400775EFC /* AddCommentResponse.swift in Sources */,
+				277C4F021E1A5B1400775EFC /* OpacitySelectionSlider.swift in Sources */,
+				277C4EEF1E1A5B1400775EFC /* QAHelperController.swift in Sources */,
+				277C4F2B1E1A5B1400775EFC /* IssueDetailViewController.swift in Sources */,
+				277C4F211E1A5B1400775EFC /* JiraAccountDetails.swift in Sources */,
+				277C4F111E1A5B1400775EFC /* GetIssueStatusResponse.swift in Sources */,
+				277C4F2D1E1A5B1400775EFC /* ViewController.swift in Sources */,
+				277C4F0F1E1A5B1400775EFC /* EditIssueApiManager.swift in Sources */,
+				277C4EF61E1A5B1400775EFC /* IssueCommentCell.swift in Sources */,
+				277C4F141E1A5B1400775EFC /* Attachment.swift in Sources */,
+				277C4EF81E1A5B1400775EFC /* IssueDetailsAssigneeCell.swift in Sources */,
+				277C4F0C1E1A5B1400775EFC /* GetAllUsersAPIManager.swift in Sources */,
+				277C4F271E1A5B1400775EFC /* BaseViewController.swift in Sources */,
+				277C4F171E1A5B1400775EFC /* Creator.swift in Sources */,
+				277C4F181E1A5B1400775EFC /* IssueComment.swift in Sources */,
+				277C4F001E1A5B1400775EFC /* ColorPickerOptionsView.swift in Sources */,
+				277C4F2A1E1A5B1400775EFC /* ImageProcessingContainer.swift in Sources */,
+				277C4EF91E1A5B1400775EFC /* IssueDetailsDescriptionCell.swift in Sources */,
+				277C4F1A1E1A5B1400775EFC /* IssueDetailsResponse.swift in Sources */,
+				277C4EF51E1A5B1400775EFC /* IssueAttachmentCollectionViewCell.swift in Sources */,
+				277C4F161E1A5B1400775EFC /* Comment.swift in Sources */,
+				277C4EEC1E1A5B1400775EFC /* AnnotationViewAdapter.m in Sources */,
+				277C4F281E1A5B1400775EFC /* CreateIssueViewController.swift in Sources */,
+				277C4EFA1E1A5B1400775EFC /* IssueDetailsHeaderCell.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin XCBuildConfiguration section */
+		277C4DF51E1A4C2100775EFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_ACTIVE_COMPILATION_CONDITIONS = DEBUG;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Debug;
+		};
+		277C4DF61E1A4C2100775EFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_ANALYZER_NONNULL = YES;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_DOCUMENTATION_COMMENTS = YES;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INFINITE_RECURSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_SUSPICIOUS_MOVE = YES;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				CURRENT_PROJECT_VERSION = 1;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Owholemodule";
+				TARGETED_DEVICE_FAMILY = "1,2";
+				VALIDATE_PRODUCT = YES;
+				VERSIONING_SYSTEM = "apple-generic";
+				VERSION_INFO_PREFIX = "";
+			};
+			name = Release;
+		};
+		277C4DF81E1A4C2100775EFC /* Debug */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = 81925D7E7934B9F8B5E7EEA3 /* Pods-QAHelper.debug.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = QAHelper/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.qburst.QAHelper;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Debug;
+		};
+		277C4DF91E1A4C2100775EFC /* Release */ = {
+			isa = XCBuildConfiguration;
+			baseConfigurationReference = C650DEE1BB3B899CF16397B1 /* Pods-QAHelper.release.xcconfig */;
+			buildSettings = {
+				CODE_SIGN_IDENTITY = "";
+				DEFINES_MODULE = YES;
+				DYLIB_COMPATIBILITY_VERSION = 1;
+				DYLIB_CURRENT_VERSION = 1;
+				DYLIB_INSTALL_NAME_BASE = "@rpath";
+				INFOPLIST_FILE = QAHelper/Info.plist;
+				INSTALL_PATH = "$(LOCAL_LIBRARY_DIR)/Frameworks";
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks @loader_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.qburst.QAHelper;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+				SKIP_INSTALL = YES;
+				SWIFT_VERSION = 3.0;
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		277C4DE91E1A4C2100775EFC /* Build configuration list for PBXProject "QAHelper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277C4DF51E1A4C2100775EFC /* Debug */,
+				277C4DF61E1A4C2100775EFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		277C4DF71E1A4C2100775EFC /* Build configuration list for PBXNativeTarget "QAHelper" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				277C4DF81E1A4C2100775EFC /* Debug */,
+				277C4DF91E1A4C2100775EFC /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 277C4DE61E1A4C2100775EFC /* Project object */;
+}

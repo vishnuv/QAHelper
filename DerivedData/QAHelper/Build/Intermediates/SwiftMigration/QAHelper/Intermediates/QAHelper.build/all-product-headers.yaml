@@ -1,0 +1,33 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/SwiftMigration/QAHelper/Products/Debug-iphonesimulator/QAHelper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "QAHelper-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/SwiftMigration/QAHelper/Products/Debug-iphonesimulator/QAHelper.framework/Headers/QAHelper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "QAHelper.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/QAHelper/QAHelper.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/SwiftMigration/QAHelper/Products/Debug-iphonesimulator/QAHelper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/SwiftMigration/QAHelper/Intermediates/QAHelper.build/Debug-iphonesimulator/QAHelper.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

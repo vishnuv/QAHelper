@@ -1,0 +1,51 @@
+PODS:
+  - Alamofire (4.2.0)
+  - AlamofireImage (3.2.0):
+    - Alamofire (~> 4.1)
+  - jot (0.1.5):
+    - Masonry (~> 0.6.1)
+  - KMPlaceholderTextView (1.3.0)
+  - KRProgressHUD (2.1.0)
+  - LiquidFloatingActionButton (2.0.0)
+  - Masonry (0.6.4)
+  - ObjectMapper (2.2.2)
+  - SDWebImage (3.8.2):
+    - SDWebImage/Core (= 3.8.2)
+  - SDWebImage/Core (3.8.2)
+  - SnapKit (3.0.2)
+
+DEPENDENCIES:
+  - Alamofire
+  - AlamofireImage
+  - jot (~> 0.1)
+  - KMPlaceholderTextView (~> 1.3.0)
+  - KRProgressHUD
+  - LiquidFloatingActionButton (from `https://github.com/qahelper/LiquidFloatingActionButton.git`)
+  - ObjectMapper
+  - SDWebImage (~> 3.8)
+  - SnapKit (~> 3.0)
+
+EXTERNAL SOURCES:
+  LiquidFloatingActionButton:
+    :git: https://github.com/qahelper/LiquidFloatingActionButton.git
+
+CHECKOUT OPTIONS:
+  LiquidFloatingActionButton:
+    :commit: 053c02d8a1ec50aa4a774520e6e4f85f32fada51
+    :git: https://github.com/qahelper/LiquidFloatingActionButton.git
+
+SPEC CHECKSUMS:
+  Alamofire: aa2e09d871c9160ac53c90e83c68064a94e3dfbe
+  AlamofireImage: 157ed682cc81d3b9db4fb90c1f12180ac552d93b
+  jot: 0f5dc333defa6ad805d01adc3834b201c22510a7
+  KMPlaceholderTextView: 2bbcd19a273648a80a61e1e48f9743a24d8930e3
+  KRProgressHUD: c3a59d192ffe1d470efe2525217f0d3aab06418d
+  LiquidFloatingActionButton: 61496c787627103ccb3a23d4dea71faef4a84d4d
+  Masonry: 281802d04d787ea2973179ee8bcb50500579ede2
+  ObjectMapper: 9e385c2295bcc4e16eabbcfc85db801442bba545
+  SDWebImage: 098e97e6176540799c27e804c96653ee0833d13c
+  SnapKit: 2e456761aa92d4d4067a7a5594c18769d451a8ad
+
+PODFILE CHECKSUM: c21d43b63bc492f96e1ee5eb738a6df8d1d0a594
+
+COCOAPODS: 1.1.1

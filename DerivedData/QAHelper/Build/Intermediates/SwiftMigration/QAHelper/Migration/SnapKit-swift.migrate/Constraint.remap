@@ -1,0 +1,162 @@
+[
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1255,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1375,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1412,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1447,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1492,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1547,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1686,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 1823,
+  "text": "file",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 6892,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7018,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7085,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7157,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7256,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7275,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7440,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7459,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7620,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7639,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7886,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 7911,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8087,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8112,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8292,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8319,
+  "text": "_ ",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8504,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8661,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 8871,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 9083,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/Constraint.swift",
+  "offset": 10130,
+  "text": "_ ",
+ }
+]

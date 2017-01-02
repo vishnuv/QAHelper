@@ -1,0 +1,498 @@
+{
+  'version': 0,
+  'case-sensitive': 'false',
+  'roots': [
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Alamofire-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Headers/Alamofire-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Alamofire-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/Alamofire/Alamofire-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Alamofire/Alamofire.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/Alamofire.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "AlamofireImage-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Headers/AlamofireImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "AlamofireImage-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/AlamofireImage/AlamofireImage-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/AlamofireImage/AlamofireImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/AlamofireImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/KMPlaceholderTextView/KMPlaceholderTextView.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "KMPlaceholderTextView-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/KMPlaceholderTextView/KMPlaceholderTextView.framework/Headers/KMPlaceholderTextView-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "KMPlaceholderTextView-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/KMPlaceholderTextView/KMPlaceholderTextView-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/KMPlaceholderTextView/KMPlaceholderTextView.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/KMPlaceholderTextView.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/KRProgressHUD/KRProgressHUD.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "KRProgressHUD-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/KRProgressHUD/KRProgressHUD.framework/Headers/KRProgressHUD-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "KRProgressHUD-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/KRProgressHUD/KRProgressHUD-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/KRProgressHUD/KRProgressHUD.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/KRProgressHUD.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/LiquidFloatingActionButton/LiquidFloatingActionButton.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "LiquidFloatingActionButton-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/LiquidFloatingActionButton/LiquidFloatingActionButton.framework/Headers/LiquidFloatingActionButton-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "LiquidFloatingActionButton-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/LiquidFloatingActionButton/LiquidFloatingActionButton-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/LiquidFloatingActionButton/LiquidFloatingActionButton.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/LiquidFloatingActionButton.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "MASCompositeConstraint.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASCompositeConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint+Private.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASConstraint+Private.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraint.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASConstraintMaker.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASConstraintMaker.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASLayoutConstraint.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASLayoutConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASUtilities.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASUtilities.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewAttribute.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASViewAttribute.h"
+        },
+        {
+          'type': 'file',
+          'name': "MASViewConstraint.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/MASViewConstraint.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Headers/Masonry-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/Masonry/Masonry-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Masonry.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/Masonry.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASAdditions.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/NSArray+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSArray+MASShorthandAdditions.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/NSArray+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "NSLayoutConstraint+MASDebugAdditions.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/NSLayoutConstraint+MASDebugAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASAdditions.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/View+MASAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "View+MASShorthandAdditions.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/View+MASShorthandAdditions.h"
+        },
+        {
+          'type': 'file',
+          'name': "ViewController+MASAdditions.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Masonry/Masonry/ViewController+MASAdditions.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Masonry/Masonry.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/Masonry.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "ObjectMapper-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Headers/ObjectMapper-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "ObjectMapper-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/ObjectMapper/ObjectMapper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/ObjectMapper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Pods_QAHelper.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "Pods-QAHelper-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/Pods-QAHelper/Pods-QAHelper-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "Pods_QAHelper-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Pods_QAHelper.framework/Headers/Pods_QAHelper-Swift.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/Pods_QAHelper.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/Pods-QAHelper.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "NSData+ImageContentType.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/NSData+ImageContentType.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDImageCache.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDImageCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Headers/SDWebImage-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImage-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SDWebImage/SDWebImage-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageCompat.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImageCompat.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDecoder.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImageDecoder.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloader.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImageDownloader.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageDownloaderOperation.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImageDownloaderOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageManager.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImageManager.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImageOperation.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImageOperation.h"
+        },
+        {
+          'type': 'file',
+          'name': "SDWebImagePrefetcher.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/SDWebImagePrefetcher.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIButton+WebCache.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/UIButton+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+GIF.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/UIImage+GIF.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+MultiFormat.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/UIImage+MultiFormat.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+HighlightedWebCache.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/UIImageView+HighlightedWebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImageView+WebCache.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/UIImageView+WebCache.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIView+WebCacheOperation.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SDWebImage/SDWebImage/UIView+WebCacheOperation.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/SDWebImage/SDWebImage.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SDWebImage.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/SnapKit/SnapKit.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "SnapKit-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/SnapKit/SnapKit.framework/Headers/SnapKit-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "SnapKit-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/SnapKit/SnapKit.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/module.modulemap"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/jot/jot.framework/Headers",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "JotDrawView.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotDrawView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JotDrawingContainer.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotDrawingContainer.h"
+        },
+        {
+          'type': 'file',
+          'name': "JotTextEditView.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotTextEditView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JotTextView.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotTextView.h"
+        },
+        {
+          'type': 'file',
+          'name': "JotTouchBezier.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotTouchBezier.h"
+        },
+        {
+          'type': 'file',
+          'name': "JotTouchPoint.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotTouchPoint.h"
+        },
+        {
+          'type': 'file',
+          'name': "JotViewController.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/JotViewController.h"
+        },
+        {
+          'type': 'file',
+          'name': "UIImage+Jot.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/UIImage+Jot.h"
+        },
+        {
+          'type': 'file',
+          'name': "jot-Swift.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/jot/jot.framework/Headers/jot-Swift.h"
+        },
+        {
+          'type': 'file',
+          'name': "jot-umbrella.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/jot/jot-umbrella.h"
+        },
+        {
+          'type': 'file',
+          'name': "jot.h",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/jot/jot/jot.h"
+        }
+      ]
+    },
+    {
+      'type': 'directory',
+      'name': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Products/Debug-iphonesimulator/jot/jot.framework/Modules",
+      'contents': [
+        {
+          'type': 'file',
+          'name': "module.modulemap",
+          'external-contents': "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/jot.build/module.modulemap"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+framework module QAHelper {
+  umbrella header "QAHelper.h"
+
+  export *
+  module * { export * }
+}
+
+module QAHelper.__Swift {
+    exclude header "QAHelper-Swift.h"
+}

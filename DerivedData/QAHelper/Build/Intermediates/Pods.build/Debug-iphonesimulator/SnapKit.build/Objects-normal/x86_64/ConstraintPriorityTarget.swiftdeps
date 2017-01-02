@@ -1,0 +1,213 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstraintPriorityTarget"
+provides-nominal:
+- "P7SnapKit24ConstraintPriorityTarget"
+- "Si"
+- "Su"
+- "Sf"
+- "Sd"
+- "V12CoreGraphics7CGFloat"
+provides-member:
+- ["P7SnapKit24ConstraintPriorityTarget", ""]
+- ["Si", ""]
+- ["Su", ""]
+- ["Sf", ""]
+- ["Sd", ""]
+- ["V12CoreGraphics7CGFloat", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "UInt"
+- "Int"
+- "Double"
+- "Float"
+- "CGFloat"
+- "ConstraintPriorityTarget"
+depends-member:
+- !private ["Ps16AbsoluteValuable", "Float"]
+- ["Ps16AbsoluteValuable", "constraintPriorityTargetValue"]
+- !private ["Ps16AbsoluteValuable", "init"]
+- !private ["Ps19BinaryFloatingPoint", "Float"]
+- ["Ps19BinaryFloatingPoint", "constraintPriorityTargetValue"]
+- !private ["Ps19BinaryFloatingPoint", "init"]
+- !private ["Ps17BitwiseOperations", "Float"]
+- ["Ps17BitwiseOperations", "constraintPriorityTargetValue"]
+- ["V12CoreGraphics7CGFloat", "Float"]
+- ["V12CoreGraphics7CGFloat", "constraintPriorityTargetValue"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["Ps7CVarArg", "Float"]
+- ["Ps7CVarArg", "constraintPriorityTargetValue"]
+- !private ["Ps7CVarArg", "init"]
+- !private ["Ps10Comparable", "Float"]
+- ["Ps10Comparable", "constraintPriorityTargetValue"]
+- !private ["Ps10Comparable", "init"]
+- !private ["P7SnapKit24ConstraintConstantTarget", "Float"]
+- ["P7SnapKit24ConstraintConstantTarget", "constraintPriorityTargetValue"]
+- !private ["P7SnapKit24ConstraintConstantTarget", "init"]
+- !private ["P7SnapKit21ConstraintInsetTarget", "Float"]
+- ["P7SnapKit21ConstraintInsetTarget", "constraintPriorityTargetValue"]
+- !private ["P7SnapKit21ConstraintInsetTarget", "init"]
+- !private ["P7SnapKit26ConstraintMultiplierTarget", "Float"]
+- ["P7SnapKit26ConstraintMultiplierTarget", "constraintPriorityTargetValue"]
+- !private ["P7SnapKit26ConstraintMultiplierTarget", "init"]
+- !private ["P7SnapKit22ConstraintOffsetTarget", "Float"]
+- ["P7SnapKit22ConstraintOffsetTarget", "constraintPriorityTargetValue"]
+- !private ["P7SnapKit22ConstraintOffsetTarget", "init"]
+- ["P7SnapKit24ConstraintPriorityTarget", "Float"]
+- ["P7SnapKit24ConstraintPriorityTarget", "constraintPriorityTargetValue"]
+- !private ["P7SnapKit24ConstraintPriorityTarget", "init"]
+- ["P7SnapKit24ConstraintPriorityTarget", ""]
+- !private ["P7SnapKit25ConstraintRelatableTarget", "Float"]
+- ["P7SnapKit25ConstraintRelatableTarget", "constraintPriorityTargetValue"]
+- !private ["P7SnapKit25ConstraintRelatableTarget", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "Float"]
+- ["Ps28CustomDebugStringConvertible", "constraintPriorityTargetValue"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "Float"]
+- ["Ps29CustomPlaygroundQuickLookable", "constraintPriorityTargetValue"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "init"]
+- !private ["Ps17CustomReflectable", "Float"]
+- ["Ps17CustomReflectable", "constraintPriorityTargetValue"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "Float"]
+- ["Ps23CustomStringConvertible", "constraintPriorityTargetValue"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Sd", "Float"]
+- ["Sd", "constraintPriorityTargetValue"]
+- ["Sd", "deinit"]
+- !private ["Ps9Equatable", "Float"]
+- ["Ps9Equatable", "constraintPriorityTargetValue"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps25ExpressibleByFloatLiteral", "Float"]
+- ["Ps25ExpressibleByFloatLiteral", "constraintPriorityTargetValue"]
+- !private ["Ps25ExpressibleByFloatLiteral", "init"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "Float"]
+- ["Ps27ExpressibleByIntegerLiteral", "constraintPriorityTargetValue"]
+- !private ["Ps27ExpressibleByIntegerLiteral", "init"]
+- ["Sf", "Float"]
+- ["Sf", "constraintPriorityTargetValue"]
+- ["Sf", "deinit"]
+- !private ["Sf", "init"]
+- !private ["Ps13FloatingPoint", "Float"]
+- ["Ps13FloatingPoint", "constraintPriorityTargetValue"]
+- !private ["Ps13FloatingPoint", "init"]
+- !private ["Ps8Hashable", "Float"]
+- ["Ps8Hashable", "constraintPriorityTargetValue"]
+- !private ["Ps8Hashable", "init"]
+- ["Si", "Float"]
+- ["Si", "constraintPriorityTargetValue"]
+- ["Si", "deinit"]
+- !private ["Ps7Integer", "Float"]
+- ["Ps7Integer", "constraintPriorityTargetValue"]
+- !private ["Ps17IntegerArithmetic", "Float"]
+- ["Ps17IntegerArithmetic", "constraintPriorityTargetValue"]
+- !private ["Ps25LosslessStringConvertible", "Float"]
+- ["Ps25LosslessStringConvertible", "constraintPriorityTargetValue"]
+- !private ["Ps25LosslessStringConvertible", "init"]
+- !private ["Ps10MirrorPath", "Float"]
+- ["Ps10MirrorPath", "constraintPriorityTargetValue"]
+- !private ["Ps13SignedInteger", "Float"]
+- ["Ps13SignedInteger", "constraintPriorityTargetValue"]
+- !private ["Ps12SignedNumber", "Float"]
+- ["Ps12SignedNumber", "constraintPriorityTargetValue"]
+- !private ["Ps12SignedNumber", "init"]
+- !private ["Ps10Strideable", "Float"]
+- ["Ps10Strideable", "constraintPriorityTargetValue"]
+- !private ["Ps10Strideable", "init"]
+- ["Su", "Float"]
+- ["Su", "constraintPriorityTargetValue"]
+- ["Su", "deinit"]
+- !private ["Ps15UnsignedInteger", "Float"]
+- ["Ps15UnsignedInteger", "constraintPriorityTargetValue"]
+- !private ["Ps15_CVarArgAligned", "Float"]
+- ["Ps15_CVarArgAligned", "constraintPriorityTargetValue"]
+- !private ["Ps15_CVarArgAligned", "init"]
+- !private ["Ps22_CVarArgPassedAsDouble", "Float"]
+- ["Ps22_CVarArgPassedAsDouble", "constraintPriorityTargetValue"]
+- !private ["Ps22_CVarArgPassedAsDouble", "init"]
+- !private ["Ps28_DisallowMixedSignArithmetic", "Float"]
+- ["Ps28_DisallowMixedSignArithmetic", "constraintPriorityTargetValue"]
+- !private ["Ps33_ExpressibleByBuiltinFloatLiteral", "Float"]
+- ["Ps33_ExpressibleByBuiltinFloatLiteral", "constraintPriorityTargetValue"]
+- !private ["Ps33_ExpressibleByBuiltinFloatLiteral", "init"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "Float"]
+- ["Ps35_ExpressibleByBuiltinIntegerLiteral", "constraintPriorityTargetValue"]
+- !private ["Ps35_ExpressibleByBuiltinIntegerLiteral", "init"]
+- !private ["Ps9_Hashable", "Float"]
+- ["Ps9_Hashable", "constraintPriorityTargetValue"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["Ps14_Incrementable", "Float"]
+- ["Ps14_Incrementable", "constraintPriorityTargetValue"]
+- !private ["Ps8_Integer", "Float"]
+- ["Ps8_Integer", "constraintPriorityTargetValue"]
+- !private ["Ps18_IntegerArithmetic", "Float"]
+- ["Ps18_IntegerArithmetic", "constraintPriorityTargetValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "Float"]
+- ["Ps21_ObjectiveCBridgeable", "constraintPriorityTargetValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+- !private ["Ps14_SignedInteger", "Float"]
+- ["Ps14_SignedInteger", "constraintPriorityTargetValue"]
+- !private ["Ps11_Strideable", "Float"]
+- ["Ps11_Strideable", "constraintPriorityTargetValue"]
+- !private ["Ps11_Strideable", "init"]
+depends-nominal:
+- "Ps16AbsoluteValuable"
+- "Ps19BinaryFloatingPoint"
+- "Ps17BitwiseOperations"
+- "V12CoreGraphics7CGFloat"
+- "Ps7CVarArg"
+- "Ps10Comparable"
+- "P7SnapKit24ConstraintConstantTarget"
+- "P7SnapKit21ConstraintInsetTarget"
+- "P7SnapKit26ConstraintMultiplierTarget"
+- "P7SnapKit22ConstraintOffsetTarget"
+- "P7SnapKit24ConstraintPriorityTarget"
+- "P7SnapKit25ConstraintRelatableTarget"
+- "Ps28CustomDebugStringConvertible"
+- "Ps29CustomPlaygroundQuickLookable"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Sd"
+- "Ps9Equatable"
+- "Ps25ExpressibleByFloatLiteral"
+- "Ps27ExpressibleByIntegerLiteral"
+- "Sf"
+- "Ps13FloatingPoint"
+- "Ps8Hashable"
+- "Si"
+- "Ps7Integer"
+- "Ps17IntegerArithmetic"
+- "Ps25LosslessStringConvertible"
+- "Ps10MirrorPath"
+- "Ps13SignedInteger"
+- "Ps12SignedNumber"
+- "Ps10Strideable"
+- "Su"
+- "Ps15UnsignedInteger"
+- "Ps15_CVarArgAligned"
+- "Ps22_CVarArgPassedAsDouble"
+- "Ps28_DisallowMixedSignArithmetic"
+- "Ps33_ExpressibleByBuiltinFloatLiteral"
+- "Ps35_ExpressibleByBuiltinIntegerLiteral"
+- "Ps9_Hashable"
+- "Ps14_Incrementable"
+- "Ps8_Integer"
+- "Ps18_IntegerArithmetic"
+- "Ps21_ObjectiveCBridgeable"
+- "Ps14_SignedInteger"
+- "Ps11_Strideable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "dd5f576284930444fe95f407ebebe444"

@@ -1,0 +1,202 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "BaseMappable"
+- "Mappable"
+- "StaticMappable"
+provides-nominal:
+- "P12ObjectMapper12BaseMappable"
+- "P12ObjectMapper8Mappable"
+- "P12ObjectMapper14StaticMappable"
+provides-member:
+- ["P12ObjectMapper12BaseMappable", ""]
+- ["P12ObjectMapper8Mappable", ""]
+- ["P12ObjectMapper14StaticMappable", ""]
+- ["Sa", ""]
+- ["Vs3Set", ""]
+- ["P12ObjectMapper12BaseMappable", "init"]
+- ["P12ObjectMapper12BaseMappable", "init"]
+- ["P12ObjectMapper12BaseMappable", "toJSON"]
+- ["P12ObjectMapper12BaseMappable", "toJSONString"]
+- ["Sa", "init"]
+- ["Sa", "init"]
+- ["Sa", "toJSON"]
+- ["Sa", "toJSONString"]
+- ["Vs3Set", "init"]
+- ["Vs3Set", "init"]
+- ["Vs3Set", "toJSON"]
+- ["Vs3Set", "toJSONString"]
+provides-dynamic-lookup:
+depends-top-level:
+- "CastingPrecedence"
+- "AssignmentPrecedence"
+- "MapContext"
+- "Array"
+- !private "Mapper"
+- "StaticMappable"
+- "Mappable"
+- "BooleanLiteralType"
+- "Bool"
+- "String"
+- "Set"
+- "BaseMappable"
+- "Map"
+depends-member:
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "map"]
+- !private ["Ps9AnyObject", "mapArray"]
+- !private ["Ps9AnyObject", "mapSet"]
+- !private ["Ps9AnyObject", "toJSON"]
+- !private ["Ps9AnyObject", "toJSONArray"]
+- !private ["Ps9AnyObject", "toJSONSet"]
+- !private ["Ps9AnyObject", "toJSONString"]
+- ["Sa", "BaseMappable"]
+- ["Sa", "Bool"]
+- !private ["Sa", "Element"]
+- ["Sa", "MapContext"]
+- !private ["Sa", "Mapper"]
+- ["Sa", "String"]
+- ["Sa", "deinit"]
+- ["Sa", "init"]
+- ["Sa", "toJSON"]
+- ["Sa", "toJSONString"]
+- ["P12ObjectMapper12BaseMappable", "BaseMappable"]
+- ["P12ObjectMapper12BaseMappable", "Bool"]
+- ["P12ObjectMapper12BaseMappable", "Map"]
+- ["P12ObjectMapper12BaseMappable", "MapContext"]
+- !private ["P12ObjectMapper12BaseMappable", "Mapper"]
+- !private ["P12ObjectMapper12BaseMappable", "Self"]
+- ["P12ObjectMapper12BaseMappable", "String"]
+- ["P12ObjectMapper12BaseMappable", "init"]
+- ["P12ObjectMapper12BaseMappable", "mapping"]
+- ["P12ObjectMapper12BaseMappable", "objectForMapping"]
+- ["P12ObjectMapper12BaseMappable", "toJSON"]
+- ["P12ObjectMapper12BaseMappable", "toJSONString"]
+- ["P12ObjectMapper12BaseMappable", ""]
+- ["Ps23BidirectionalCollection", "BaseMappable"]
+- !private ["Ps23BidirectionalCollection", "Mapper"]
+- ["Ps22BidirectionalIndexable", "BaseMappable"]
+- !private ["Ps22BidirectionalIndexable", "Mapper"]
+- ["Sb", "deinit"]
+- ["Ps7CVarArg", "BaseMappable"]
+- !private ["Ps7CVarArg", "Mapper"]
+- ["Ps10Collection", "BaseMappable"]
+- !private ["Ps10Collection", "Mapper"]
+- ["Ps28CustomDebugStringConvertible", "BaseMappable"]
+- !private ["Ps28CustomDebugStringConvertible", "Mapper"]
+- ["Ps17CustomReflectable", "BaseMappable"]
+- !private ["Ps17CustomReflectable", "Mapper"]
+- ["Ps23CustomStringConvertible", "BaseMappable"]
+- !private ["Ps23CustomStringConvertible", "Mapper"]
+- ["Vs10Dictionary", "deinit"]
+- ["Ps9Equatable", "BaseMappable"]
+- !private ["Ps9Equatable", "Mapper"]
+- ["Ps25ExpressibleByArrayLiteral", "BaseMappable"]
+- !private ["Ps25ExpressibleByArrayLiteral", "Mapper"]
+- ["Ps8Hashable", "BaseMappable"]
+- !private ["Ps8Hashable", "Mapper"]
+- ["Ps9Indexable", "BaseMappable"]
+- !private ["Ps9Indexable", "Mapper"]
+- ["Ps13IndexableBase", "BaseMappable"]
+- !private ["Ps13IndexableBase", "Mapper"]
+- ["P12ObjectMapper8Mappable", "Map"]
+- ["P12ObjectMapper8Mappable", "init"]
+- ["C12ObjectMapper6Mapper", "deinit"]
+- !private ["C12ObjectMapper6Mapper", "init"]
+- !private ["C12ObjectMapper6Mapper", "map"]
+- !private ["C12ObjectMapper6Mapper", "mapArray"]
+- !private ["C12ObjectMapper6Mapper", "mapSet"]
+- !private ["C12ObjectMapper6Mapper", "toJSON"]
+- !private ["C12ObjectMapper6Mapper", "toJSONArray"]
+- !private ["C12ObjectMapper6Mapper", "toJSONSet"]
+- !private ["C12ObjectMapper6Mapper", "toJSONString"]
+- ["Ps17MutableCollection", "BaseMappable"]
+- !private ["Ps17MutableCollection", "Mapper"]
+- ["Ps16MutableIndexable", "BaseMappable"]
+- !private ["Ps16MutableIndexable", "Mapper"]
+- ["Sq", "deinit"]
+- ["Ps22RandomAccessCollection", "BaseMappable"]
+- !private ["Ps22RandomAccessCollection", "Mapper"]
+- ["Ps21RandomAccessIndexable", "BaseMappable"]
+- !private ["Ps21RandomAccessIndexable", "Mapper"]
+- ["Ps26RangeReplaceableCollection", "BaseMappable"]
+- !private ["Ps26RangeReplaceableCollection", "Mapper"]
+- ["Ps25RangeReplaceableIndexable", "BaseMappable"]
+- !private ["Ps25RangeReplaceableIndexable", "Mapper"]
+- ["Ps8Sequence", "BaseMappable"]
+- !private ["Ps8Sequence", "Mapper"]
+- ["Vs3Set", "BaseMappable"]
+- ["Vs3Set", "Bool"]
+- !private ["Vs3Set", "Element"]
+- ["Vs3Set", "MapContext"]
+- !private ["Vs3Set", "Mapper"]
+- !private ["Vs3Set", "Set"]
+- ["Vs3Set", "String"]
+- ["Vs3Set", "deinit"]
+- ["Vs3Set", "init"]
+- ["Vs3Set", "toJSON"]
+- ["Vs3Set", "toJSONString"]
+- ["Ps10SetAlgebra", "BaseMappable"]
+- !private ["Ps10SetAlgebra", "Mapper"]
+- ["P12ObjectMapper14StaticMappable", "BaseMappable"]
+- ["P12ObjectMapper14StaticMappable", "Map"]
+- ["P12ObjectMapper14StaticMappable", "objectForMapping"]
+- ["SS", "deinit"]
+- ["Ps14_ArrayProtocol", "BaseMappable"]
+- !private ["Ps14_ArrayProtocol", "Mapper"]
+- ["Ps24_DestructorSafeContainer", "BaseMappable"]
+- !private ["Ps24_DestructorSafeContainer", "Mapper"]
+- ["Ps9_Hashable", "BaseMappable"]
+- !private ["Ps9_Hashable", "Mapper"]
+- ["Ps21_ObjectiveCBridgeable", "BaseMappable"]
+- !private ["Ps21_ObjectiveCBridgeable", "Mapper"]
+depends-nominal:
+- !private "Ps9AnyObject"
+- "Sa"
+- "P12ObjectMapper12BaseMappable"
+- "Ps23BidirectionalCollection"
+- "Ps22BidirectionalIndexable"
+- "Sb"
+- "Ps7CVarArg"
+- "Ps10Collection"
+- "Ps28CustomDebugStringConvertible"
+- "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- "Ps9Equatable"
+- "Ps25ExpressibleByArrayLiteral"
+- "Ps8Hashable"
+- "Ps9Indexable"
+- "Ps13IndexableBase"
+- "P12ObjectMapper8Mappable"
+- "C12ObjectMapper6Mapper"
+- "Ps17MutableCollection"
+- "Ps16MutableIndexable"
+- "Sq"
+- "Ps22RandomAccessCollection"
+- "Ps21RandomAccessIndexable"
+- "Ps26RangeReplaceableCollection"
+- "Ps25RangeReplaceableIndexable"
+- "Ps8Sequence"
+- "Vs3Set"
+- "Ps10SetAlgebra"
+- "P12ObjectMapper14StaticMappable"
+- "SS"
+- "Ps14_ArrayProtocol"
+- "Ps24_DestructorSafeContainer"
+- "Ps9_Hashable"
+- "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "311d658cdcfaa94f98d99f2f0842cb60"

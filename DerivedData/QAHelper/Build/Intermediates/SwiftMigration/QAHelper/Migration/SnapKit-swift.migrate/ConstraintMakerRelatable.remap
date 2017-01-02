@@ -1,0 +1,44 @@
+[
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 1256,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 3159,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 3407,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 3814,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 4082,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 4519,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerRelatable.swift",
+  "offset": 4791,
+  "remove": 6,
+  "text": "open",
+ }
+]

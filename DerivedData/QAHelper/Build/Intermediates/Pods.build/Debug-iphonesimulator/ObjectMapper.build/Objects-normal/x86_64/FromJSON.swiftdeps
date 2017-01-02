@@ -1,0 +1,123 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "FromJSON"
+provides-nominal:
+- "C12ObjectMapper8FromJSON"
+provides-member:
+- ["C12ObjectMapper8FromJSON", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "AssignmentPrecedence"
+- "String"
+- !private "Mapper"
+- "Set"
+- !private "&&"
+- "FromJSON"
+- "Map"
+- "BaseMappable"
+- !private "!="
+- "Array"
+- "Dictionary"
+depends-member:
+- !private ["Ps9AnyObject", "Mapper"]
+- !private ["Ps9AnyObject", "context"]
+- !private ["Ps9AnyObject", "currentValue"]
+- !private ["Ps9AnyObject", "init"]
+- !private ["Ps9AnyObject", "map"]
+- !private ["Ps9AnyObject", "mapArray"]
+- !private ["Ps9AnyObject", "mapArrayOfArrays"]
+- !private ["Ps9AnyObject", "mapDictionary"]
+- !private ["Ps9AnyObject", "mapDictionaryOfArrays"]
+- !private ["Ps9AnyObject", "mapSet"]
+- !private ["Ps9AnyObject", "toObject"]
+- ["Ps9AnyObject", ""]
+- ["Sa", "deinit"]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Vs10Dictionary", "deinit"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- ["C12ObjectMapper8FromJSON", "Array"]
+- ["C12ObjectMapper8FromJSON", "BaseMappable"]
+- ["C12ObjectMapper8FromJSON", "Dictionary"]
+- ["C12ObjectMapper8FromJSON", "Map"]
+- !private ["C12ObjectMapper8FromJSON", "Mapper"]
+- ["C12ObjectMapper8FromJSON", "Set"]
+- ["C12ObjectMapper8FromJSON", "String"]
+- ["C12ObjectMapper8FromJSON", "basicType"]
+- ["C12ObjectMapper8FromJSON", "deinit"]
+- ["C12ObjectMapper8FromJSON", "init"]
+- ["C12ObjectMapper8FromJSON", "object"]
+- ["C12ObjectMapper8FromJSON", "objectArray"]
+- ["C12ObjectMapper8FromJSON", "objectDictionary"]
+- ["C12ObjectMapper8FromJSON", "objectDictionaryOfArrays"]
+- ["C12ObjectMapper8FromJSON", "objectSet"]
+- ["C12ObjectMapper8FromJSON", "optionalBasicType"]
+- ["C12ObjectMapper8FromJSON", "optionalObject"]
+- ["C12ObjectMapper8FromJSON", "optionalObjectArray"]
+- ["C12ObjectMapper8FromJSON", "optionalObjectDictionary"]
+- ["C12ObjectMapper8FromJSON", "optionalObjectDictionaryOfArrays"]
+- ["C12ObjectMapper8FromJSON", "optionalObjectSet"]
+- ["C12ObjectMapper8FromJSON", "optionalTwoDimensionalObjectArray"]
+- ["C12ObjectMapper8FromJSON", "twoDimensionalObjectArray"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["SQ", "deinit"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["C12ObjectMapper3Map", "context"]
+- !private ["C12ObjectMapper3Map", "currentValue"]
+- ["C12ObjectMapper3Map", "deinit"]
+- !private ["C12ObjectMapper3Map", "toObject"]
+- ["C12ObjectMapper6Mapper", "deinit"]
+- !private ["C12ObjectMapper6Mapper", "init"]
+- !private ["C12ObjectMapper6Mapper", "map"]
+- !private ["C12ObjectMapper6Mapper", "mapArray"]
+- !private ["C12ObjectMapper6Mapper", "mapArrayOfArrays"]
+- !private ["C12ObjectMapper6Mapper", "mapDictionary"]
+- !private ["C12ObjectMapper6Mapper", "mapDictionaryOfArrays"]
+- !private ["C12ObjectMapper6Mapper", "mapSet"]
+- ["Sq", "deinit"]
+- ["Vs3Set", "deinit"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+- ["Vs26_OptionalNilComparisonType", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sa"
+- "Sb"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "Vs10Dictionary"
+- !private "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- "C12ObjectMapper8FromJSON"
+- !private "Ps8Hashable"
+- "SQ"
+- !private "Ps25LosslessStringConvertible"
+- "C12ObjectMapper3Map"
+- "C12ObjectMapper6Mapper"
+- "Sq"
+- "Vs3Set"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- !private "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+- "Vs26_OptionalNilComparisonType"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "c7f1a7a1f21b44b19ade335fcc8bb095"

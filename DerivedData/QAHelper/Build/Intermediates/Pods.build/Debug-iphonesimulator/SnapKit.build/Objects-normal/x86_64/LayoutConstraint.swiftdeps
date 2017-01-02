@@ -1,0 +1,224 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "LayoutConstraint"
+- "=="
+provides-nominal:
+- "C7SnapKit16LayoutConstraint"
+provides-member:
+- ["C7SnapKit16LayoutConstraint", ""]
+provides-dynamic-lookup:
+- "label"
+depends-top-level:
+- !private "BooleanLiteralType"
+- "Bool"
+- !private "==="
+- "String"
+- !private "&&"
+- "=="
+- "AssignmentPrecedence"
+- "NSLayoutConstraint"
+- "LayoutConstraint"
+- "Constraint"
+depends-member:
+- ["Ps9AnyObject", "constraint"]
+- ["Ps9AnyObject", "deinit"]
+- !private ["Ps9AnyObject", "firstAttribute"]
+- !private ["Ps9AnyObject", "firstItem"]
+- !private ["Ps9AnyObject", "identifier"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "label"]
+- !private ["Ps9AnyObject", "multiplier"]
+- !private ["Ps9AnyObject", "priority"]
+- !private ["Ps9AnyObject", "relation"]
+- !private ["Ps9AnyObject", "secondAttribute"]
+- !private ["Ps9AnyObject", "secondItem"]
+- ["Ps9AnyObject", ""]
+- !private ["Sb", "_getBuiltinLogicValue"]
+- ["Sb", "deinit"]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["Ps7CVarArg", "constraint"]
+- !private ["Ps7CVarArg", "firstAttribute"]
+- !private ["Ps7CVarArg", "firstItem"]
+- !private ["Ps7CVarArg", "identifier"]
+- !private ["Ps7CVarArg", "init"]
+- ["Ps7CVarArg", "label"]
+- !private ["Ps7CVarArg", "multiplier"]
+- !private ["Ps7CVarArg", "priority"]
+- !private ["Ps7CVarArg", "relation"]
+- !private ["Ps7CVarArg", "secondAttribute"]
+- !private ["Ps7CVarArg", "secondItem"]
+- ["Ps7CVarArg", ""]
+- ["Ps28CustomDebugStringConvertible", "constraint"]
+- !private ["Ps28CustomDebugStringConvertible", "firstAttribute"]
+- !private ["Ps28CustomDebugStringConvertible", "firstItem"]
+- !private ["Ps28CustomDebugStringConvertible", "identifier"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- ["Ps28CustomDebugStringConvertible", "label"]
+- !private ["Ps28CustomDebugStringConvertible", "multiplier"]
+- !private ["Ps28CustomDebugStringConvertible", "priority"]
+- !private ["Ps28CustomDebugStringConvertible", "relation"]
+- !private ["Ps28CustomDebugStringConvertible", "secondAttribute"]
+- !private ["Ps28CustomDebugStringConvertible", "secondItem"]
+- ["Ps28CustomDebugStringConvertible", ""]
+- !private ["Ps29CustomPlaygroundQuickLookable", "_getBuiltinLogicValue"]
+- !private ["Ps17CustomReflectable", "_getBuiltinLogicValue"]
+- !private ["Ps23CustomStringConvertible", "_getBuiltinLogicValue"]
+- ["Ps23CustomStringConvertible", "constraint"]
+- !private ["Ps23CustomStringConvertible", "firstAttribute"]
+- !private ["Ps23CustomStringConvertible", "firstItem"]
+- !private ["Ps23CustomStringConvertible", "identifier"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- ["Ps23CustomStringConvertible", "label"]
+- !private ["Ps23CustomStringConvertible", "multiplier"]
+- !private ["Ps23CustomStringConvertible", "priority"]
+- !private ["Ps23CustomStringConvertible", "relation"]
+- !private ["Ps23CustomStringConvertible", "secondAttribute"]
+- !private ["Ps23CustomStringConvertible", "secondItem"]
+- ["Ps23CustomStringConvertible", ""]
+- !private ["Ps9Equatable", "RawValue"]
+- !private ["Ps9Equatable", "_getBuiltinLogicValue"]
+- ["Ps9Equatable", "constraint"]
+- !private ["Ps9Equatable", "firstAttribute"]
+- !private ["Ps9Equatable", "firstItem"]
+- !private ["Ps9Equatable", "identifier"]
+- !private ["Ps9Equatable", "init"]
+- ["Ps9Equatable", "label"]
+- !private ["Ps9Equatable", "multiplier"]
+- !private ["Ps9Equatable", "priority"]
+- !private ["Ps9Equatable", "relation"]
+- !private ["Ps9Equatable", "secondAttribute"]
+- !private ["Ps9Equatable", "secondItem"]
+- ["Ps9Equatable", ""]
+- !private ["Ps27ExpressibleByBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Sf", "deinit"]
+- !private ["Ps8Hashable", "RawValue"]
+- !private ["Ps8Hashable", "_getBuiltinLogicValue"]
+- ["Ps8Hashable", "constraint"]
+- !private ["Ps8Hashable", "firstAttribute"]
+- !private ["Ps8Hashable", "firstItem"]
+- !private ["Ps8Hashable", "identifier"]
+- !private ["Ps8Hashable", "init"]
+- ["Ps8Hashable", "label"]
+- !private ["Ps8Hashable", "multiplier"]
+- !private ["Ps8Hashable", "priority"]
+- !private ["Ps8Hashable", "relation"]
+- !private ["Ps8Hashable", "secondAttribute"]
+- !private ["Ps8Hashable", "secondItem"]
+- ["Ps8Hashable", ""]
+- ["C7SnapKit16LayoutConstraint", "Constraint"]
+- ["C7SnapKit16LayoutConstraint", "String"]
+- ["C7SnapKit16LayoutConstraint", "constraint"]
+- ["C7SnapKit16LayoutConstraint", "deinit"]
+- !private ["C7SnapKit16LayoutConstraint", "firstAttribute"]
+- !private ["C7SnapKit16LayoutConstraint", "firstItem"]
+- !private ["C7SnapKit16LayoutConstraint", "identifier"]
+- ["C7SnapKit16LayoutConstraint", "init"]
+- ["C7SnapKit16LayoutConstraint", "label"]
+- !private ["C7SnapKit16LayoutConstraint", "multiplier"]
+- !private ["C7SnapKit16LayoutConstraint", "priority"]
+- !private ["C7SnapKit16LayoutConstraint", "relation"]
+- !private ["C7SnapKit16LayoutConstraint", "secondAttribute"]
+- !private ["C7SnapKit16LayoutConstraint", "secondItem"]
+- !private ["Ps25LosslessStringConvertible", "_getBuiltinLogicValue"]
+- !private ["OSC17NSLayoutAttribute", "RawValue"]
+- ["OSC17NSLayoutAttribute", "deinit"]
+- ["CSo18NSLayoutConstraint", "Constraint"]
+- ["CSo18NSLayoutConstraint", "String"]
+- ["CSo18NSLayoutConstraint", "constraint"]
+- ["CSo18NSLayoutConstraint", "deinit"]
+- !private ["CSo18NSLayoutConstraint", "firstAttribute"]
+- !private ["CSo18NSLayoutConstraint", "firstItem"]
+- !private ["CSo18NSLayoutConstraint", "identifier"]
+- ["CSo18NSLayoutConstraint", "init"]
+- ["CSo18NSLayoutConstraint", "label"]
+- !private ["CSo18NSLayoutConstraint", "multiplier"]
+- !private ["CSo18NSLayoutConstraint", "priority"]
+- !private ["CSo18NSLayoutConstraint", "relation"]
+- !private ["CSo18NSLayoutConstraint", "secondAttribute"]
+- !private ["CSo18NSLayoutConstraint", "secondItem"]
+- ["CSo18NSLayoutConstraint", ""]
+- !private ["OSC16NSLayoutRelation", "RawValue"]
+- ["OSC16NSLayoutRelation", "deinit"]
+- ["CSo8NSObject", "Constraint"]
+- ["CSo8NSObject", "String"]
+- ["CSo8NSObject", "constraint"]
+- !private ["CSo8NSObject", "firstAttribute"]
+- !private ["CSo8NSObject", "firstItem"]
+- !private ["CSo8NSObject", "identifier"]
+- ["CSo8NSObject", "init"]
+- ["CSo8NSObject", "label"]
+- !private ["CSo8NSObject", "multiplier"]
+- !private ["CSo8NSObject", "priority"]
+- !private ["CSo8NSObject", "relation"]
+- !private ["CSo8NSObject", "secondAttribute"]
+- !private ["CSo8NSObject", "secondItem"]
+- ["PSo16NSObjectProtocol", "constraint"]
+- !private ["PSo16NSObjectProtocol", "firstAttribute"]
+- !private ["PSo16NSObjectProtocol", "firstItem"]
+- !private ["PSo16NSObjectProtocol", "identifier"]
+- !private ["PSo16NSObjectProtocol", "init"]
+- ["PSo16NSObjectProtocol", "label"]
+- !private ["PSo16NSObjectProtocol", "multiplier"]
+- !private ["PSo16NSObjectProtocol", "priority"]
+- !private ["PSo16NSObjectProtocol", "relation"]
+- !private ["PSo16NSObjectProtocol", "secondAttribute"]
+- !private ["PSo16NSObjectProtocol", "secondItem"]
+- ["PSo16NSObjectProtocol", ""]
+- ["Sq", "deinit"]
+- !private ["Ps16RawRepresentable", "RawValue"]
+- !private ["Ps35_ExpressibleByBuiltinBooleanLiteral", "_getBuiltinLogicValue"]
+- !private ["Ps9_Hashable", "RawValue"]
+- !private ["Ps9_Hashable", "_getBuiltinLogicValue"]
+- ["Ps9_Hashable", "constraint"]
+- !private ["Ps9_Hashable", "firstAttribute"]
+- !private ["Ps9_Hashable", "firstItem"]
+- !private ["Ps9_Hashable", "identifier"]
+- !private ["Ps9_Hashable", "init"]
+- ["Ps9_Hashable", "label"]
+- !private ["Ps9_Hashable", "multiplier"]
+- !private ["Ps9_Hashable", "priority"]
+- !private ["Ps9_Hashable", "relation"]
+- !private ["Ps9_Hashable", "secondAttribute"]
+- !private ["Ps9_Hashable", "secondItem"]
+- ["Ps9_Hashable", ""]
+- !private ["Ps21_ObjectiveCBridgeable", "_getBuiltinLogicValue"]
+depends-nominal:
+- "Ps9AnyObject"
+- "Sb"
+- "V12CoreGraphics7CGFloat"
+- "Ps7CVarArg"
+- "Ps28CustomDebugStringConvertible"
+- !private "Ps29CustomPlaygroundQuickLookable"
+- !private "Ps17CustomReflectable"
+- "Ps23CustomStringConvertible"
+- "Ps9Equatable"
+- !private "Ps27ExpressibleByBooleanLiteral"
+- !private "Sf"
+- "Ps8Hashable"
+- "C7SnapKit16LayoutConstraint"
+- !private "Ps25LosslessStringConvertible"
+- "OSC17NSLayoutAttribute"
+- "CSo18NSLayoutConstraint"
+- "OSC16NSLayoutRelation"
+- "CSo8NSObject"
+- "PSo16NSObjectProtocol"
+- "Sq"
+- !private "Ps16RawRepresentable"
+- !private "Ps35_ExpressibleByBuiltinBooleanLiteral"
+- "Ps9_Hashable"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "95e36e147f13c2a31eaaa93ee05f5d41"

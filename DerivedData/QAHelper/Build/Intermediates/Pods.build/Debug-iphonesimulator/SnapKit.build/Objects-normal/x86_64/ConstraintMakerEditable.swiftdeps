@@ -1,0 +1,99 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstraintMakerEditable"
+provides-nominal:
+- "C7SnapKit23ConstraintMakerEditable"
+provides-member:
+- ["C7SnapKit23ConstraintMakerEditable", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "ConstraintMakerPriortizable"
+- !private "/"
+- "ConstraintOffsetTarget"
+- "AssignmentPrecedence"
+- "ConstraintMakerEditable"
+- "ConstraintMultiplierTarget"
+- "ConstraintInsetTarget"
+depends-member:
+- !private ["Ps9AnyObject", "constant"]
+- !private ["Ps9AnyObject", "description"]
+- ["Ps9AnyObject", "dividedBy"]
+- !private ["Ps9AnyObject", "init"]
+- ["Ps9AnyObject", "inset"]
+- ["Ps9AnyObject", "multipliedBy"]
+- !private ["Ps9AnyObject", "multiplier"]
+- ["Ps9AnyObject", "offset"]
+- ["Ps9AnyObject", ""]
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- !private ["P7SnapKit24ConstraintConstantTarget", "constraintInsetTargetValue"]
+- !private ["P7SnapKit24ConstraintConstantTarget", "constraintOffsetTargetValue"]
+- !private ["C7SnapKit21ConstraintDescription", "constant"]
+- ["C7SnapKit21ConstraintDescription", "deinit"]
+- !private ["C7SnapKit21ConstraintDescription", "multiplier"]
+- !private ["P7SnapKit21ConstraintInsetTarget", "constraintInsetTargetValue"]
+- ["P7SnapKit21ConstraintInsetTarget", "deinit"]
+- ["C7SnapKit23ConstraintMakerEditable", "ConstraintInsetTarget"]
+- ["C7SnapKit23ConstraintMakerEditable", "ConstraintMakerEditable"]
+- ["C7SnapKit23ConstraintMakerEditable", "ConstraintMultiplierTarget"]
+- ["C7SnapKit23ConstraintMakerEditable", "ConstraintOffsetTarget"]
+- ["C7SnapKit23ConstraintMakerEditable", "deinit"]
+- !private ["C7SnapKit23ConstraintMakerEditable", "description"]
+- ["C7SnapKit23ConstraintMakerEditable", "dividedBy"]
+- ["C7SnapKit23ConstraintMakerEditable", "init"]
+- ["C7SnapKit23ConstraintMakerEditable", "inset"]
+- ["C7SnapKit23ConstraintMakerEditable", "multipliedBy"]
+- ["C7SnapKit23ConstraintMakerEditable", "offset"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "ConstraintInsetTarget"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "ConstraintMakerEditable"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "ConstraintMultiplierTarget"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "ConstraintOffsetTarget"]
+- !private ["C7SnapKit26ConstraintMakerFinalizable", "description"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "dividedBy"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "init"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "inset"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "multipliedBy"]
+- ["C7SnapKit26ConstraintMakerFinalizable", "offset"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "ConstraintInsetTarget"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "ConstraintMakerEditable"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "ConstraintMultiplierTarget"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "ConstraintOffsetTarget"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "deinit"]
+- !private ["C7SnapKit27ConstraintMakerPriortizable", "description"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "dividedBy"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "init"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "inset"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "multipliedBy"]
+- ["C7SnapKit27ConstraintMakerPriortizable", "offset"]
+- ["C7SnapKit27ConstraintMakerPriortizable", ""]
+- !private ["P7SnapKit26ConstraintMultiplierTarget", "constraintMultiplierTargetValue"]
+- ["P7SnapKit26ConstraintMultiplierTarget", "deinit"]
+- !private ["P7SnapKit22ConstraintOffsetTarget", "constraintOffsetTargetValue"]
+- ["P7SnapKit22ConstraintOffsetTarget", "deinit"]
+- ["VSC12UIEdgeInsets", "deinit"]
+depends-nominal:
+- "Ps9AnyObject"
+- "V12CoreGraphics7CGFloat"
+- !private "P7SnapKit24ConstraintConstantTarget"
+- "C7SnapKit21ConstraintDescription"
+- "P7SnapKit21ConstraintInsetTarget"
+- "C7SnapKit23ConstraintMakerEditable"
+- "C7SnapKit26ConstraintMakerFinalizable"
+- "C7SnapKit27ConstraintMakerPriortizable"
+- "P7SnapKit26ConstraintMultiplierTarget"
+- "P7SnapKit22ConstraintOffsetTarget"
+- "VSC12UIEdgeInsets"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "fb2d5164c562aed6935c9f49b0994bcc"

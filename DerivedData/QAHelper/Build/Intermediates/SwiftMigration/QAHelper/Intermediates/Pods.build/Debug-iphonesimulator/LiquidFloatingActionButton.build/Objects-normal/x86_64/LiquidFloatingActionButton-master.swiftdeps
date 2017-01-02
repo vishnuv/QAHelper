@@ -1,0 +1,12 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "048f808e7f1becc97af177a814d6cb9d"
+build_time: [536664235, 626518000]
+inputs:
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/ArrayEx.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/CGPointEx.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/CGRectEx.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/LiquidFloatingActionButton.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/LiquidUtil.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/LiquittableCircle.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/SimpleCircleLiquidEngine.swift": [536663952, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/LiquidFloatingActionButton/Pod/Classes/UIColorEx.swift": [536663952, 0]

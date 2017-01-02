@@ -1,0 +1,79 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "ConstraintRelatableTarget"
+provides-nominal:
+- "P7SnapKit25ConstraintRelatableTarget"
+- "Si"
+- "Su"
+- "Sf"
+- "Sd"
+- "V12CoreGraphics7CGFloat"
+- "VSC6CGSize"
+- "VSC7CGPoint"
+- "VSC12UIEdgeInsets"
+- "C7SnapKit14ConstraintItem"
+- "CSo6UIView"
+provides-member:
+- ["P7SnapKit25ConstraintRelatableTarget", ""]
+- ["Si", ""]
+- ["Su", ""]
+- ["Sf", ""]
+- ["Sd", ""]
+- ["V12CoreGraphics7CGFloat", ""]
+- ["VSC6CGSize", ""]
+- ["VSC7CGPoint", ""]
+- ["VSC12UIEdgeInsets", ""]
+- ["C7SnapKit14ConstraintItem", ""]
+- ["CSo6UIView", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "Double"
+- "ConstraintRelatableTarget"
+- "Int"
+- "ConstraintInsets"
+- "Float"
+- "UInt"
+- "ConstraintView"
+- "CGSize"
+- "ConstraintItem"
+- "CGPoint"
+- "CGFloat"
+depends-member:
+- ["V12CoreGraphics7CGFloat", "deinit"]
+- ["VSC7CGPoint", "deinit"]
+- ["VSC6CGSize", "deinit"]
+- ["C7SnapKit14ConstraintItem", "deinit"]
+- ["P7SnapKit25ConstraintRelatableTarget", ""]
+- ["Sd", "deinit"]
+- ["Sf", "deinit"]
+- ["Si", "deinit"]
+- ["VSC12UIEdgeInsets", "deinit"]
+- ["CSo6UIView", "deinit"]
+- ["Su", "deinit"]
+depends-nominal:
+- "V12CoreGraphics7CGFloat"
+- "VSC7CGPoint"
+- "VSC6CGSize"
+- "C7SnapKit14ConstraintItem"
+- "P7SnapKit25ConstraintRelatableTarget"
+- "Sd"
+- "Sf"
+- "Si"
+- "VSC12UIEdgeInsets"
+- "CSo6UIView"
+- "Su"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/SnapKit/SnapKit-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/SnapKit.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "14615a0039f00f7aed0eca45446d210d"

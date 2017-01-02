@@ -1,0 +1,21 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "cbf16df66c394b126dabb93f4fa99447"
+build_time: [536664210, 360129000]
+inputs:
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/AFError.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Alamofire.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/DispatchQueue+Alamofire.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/MultipartFormData.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/NetworkReachabilityManager.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Notifications.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/ParameterEncoding.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Request.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Response.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/ResponseSerialization.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Result.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/ServerTrustPolicy.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/SessionDelegate.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/SessionManager.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/TaskDelegate.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Timeline.swift": [536663960, 0]
+  "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Alamofire/Source/Validation.swift": [536663960, 0]

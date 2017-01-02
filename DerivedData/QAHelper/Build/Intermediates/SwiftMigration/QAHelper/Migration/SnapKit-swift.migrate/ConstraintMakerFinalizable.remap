@@ -1,0 +1,20 @@
+[
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift",
+  "offset": 1256,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift",
+  "offset": 1495,
+  "remove": 6,
+  "text": "open",
+ },
+ {
+  "file": "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/SnapKit/Source/ConstraintMakerFinalizable.swift",
+  "offset": 1638,
+  "remove": 6,
+  "text": "open",
+ }
+]

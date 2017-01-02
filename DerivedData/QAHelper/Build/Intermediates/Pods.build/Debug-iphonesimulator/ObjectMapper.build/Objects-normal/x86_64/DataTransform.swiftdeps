@@ -1,0 +1,125 @@
+### Swift dependencies file v0 ###
+provides-top-level:
+- "DataTransform"
+provides-nominal:
+- "C12ObjectMapper13DataTransform"
+provides-member:
+- ["C12ObjectMapper13DataTransform", ""]
+provides-dynamic-lookup:
+depends-top-level:
+- "DataTransform"
+- "Data"
+- "TransformType"
+- "CastingPrecedence"
+- "String"
+depends-member:
+- !private ["Ps9AnyObject", "Data"]
+- ["Ps9AnyObject", "JSON"]
+- ["Ps9AnyObject", "Object"]
+- ["Ps9AnyObject", "transformFromJSON"]
+- ["Ps9AnyObject", "transformToJSON"]
+- ["Ps9AnyObject", ""]
+- !private ["Ps23BidirectionalCollection", "base64EncodedString"]
+- !private ["Ps23BidirectionalCollection", "init"]
+- !private ["Ps22BidirectionalIndexable", "base64EncodedString"]
+- !private ["Ps22BidirectionalIndexable", "init"]
+- !private ["Ps10Collection", "base64EncodedString"]
+- !private ["Ps10Collection", "init"]
+- !private ["Ps28CustomDebugStringConvertible", "base64EncodedString"]
+- !private ["Ps28CustomDebugStringConvertible", "init"]
+- !private ["Ps17CustomReflectable", "base64EncodedString"]
+- !private ["Ps17CustomReflectable", "init"]
+- !private ["Ps23CustomStringConvertible", "base64EncodedString"]
+- !private ["Ps23CustomStringConvertible", "init"]
+- !private ["V10Foundation4Data", "base64EncodedString"]
+- ["V10Foundation4Data", "deinit"]
+- !private ["V10Foundation4Data", "init"]
+- ["C12ObjectMapper13DataTransform", "Data"]
+- ["C12ObjectMapper13DataTransform", "JSON"]
+- ["C12ObjectMapper13DataTransform", "Object"]
+- ["C12ObjectMapper13DataTransform", "String"]
+- ["C12ObjectMapper13DataTransform", "deinit"]
+- ["C12ObjectMapper13DataTransform", "init"]
+- ["C12ObjectMapper13DataTransform", "transformFromJSON"]
+- ["C12ObjectMapper13DataTransform", "transformToJSON"]
+- !private ["Ps9Equatable", "base64EncodedString"]
+- !private ["Ps9Equatable", "init"]
+- !private ["Ps8Hashable", "base64EncodedString"]
+- !private ["Ps8Hashable", "init"]
+- !private ["Ps9Indexable", "base64EncodedString"]
+- !private ["Ps9Indexable", "init"]
+- !private ["Ps13IndexableBase", "base64EncodedString"]
+- !private ["Ps13IndexableBase", "init"]
+- !private ["Ps17MutableCollection", "base64EncodedString"]
+- !private ["Ps17MutableCollection", "init"]
+- !private ["Ps16MutableIndexable", "base64EncodedString"]
+- !private ["Ps16MutableIndexable", "init"]
+- ["Sq", "deinit"]
+- !private ["Ps22RandomAccessCollection", "base64EncodedString"]
+- !private ["Ps22RandomAccessCollection", "init"]
+- !private ["Ps21RandomAccessIndexable", "base64EncodedString"]
+- !private ["Ps21RandomAccessIndexable", "init"]
+- !private ["Ps26RangeReplaceableCollection", "base64EncodedString"]
+- !private ["Ps26RangeReplaceableCollection", "init"]
+- !private ["Ps25RangeReplaceableIndexable", "base64EncodedString"]
+- !private ["Ps25RangeReplaceableIndexable", "init"]
+- !private ["P10Foundation20ReferenceConvertible", "base64EncodedString"]
+- !private ["P10Foundation20ReferenceConvertible", "init"]
+- !private ["Ps8Sequence", "base64EncodedString"]
+- !private ["Ps8Sequence", "init"]
+- ["SS", "deinit"]
+- !private ["P12ObjectMapper13TransformType", "Data"]
+- ["P12ObjectMapper13TransformType", "JSON"]
+- ["P12ObjectMapper13TransformType", "Object"]
+- ["P12ObjectMapper13TransformType", "transformFromJSON"]
+- ["P12ObjectMapper13TransformType", "transformToJSON"]
+- ["P12ObjectMapper13TransformType", ""]
+- !private ["Ps9_Hashable", "base64EncodedString"]
+- !private ["Ps9_Hashable", "init"]
+- !private ["P10Foundation18_MutablePairBoxing", "base64EncodedString"]
+- !private ["P10Foundation18_MutablePairBoxing", "init"]
+- !private ["Ps21_ObjectiveCBridgeable", "base64EncodedString"]
+- !private ["Ps21_ObjectiveCBridgeable", "init"]
+depends-nominal:
+- "Ps9AnyObject"
+- !private "Ps23BidirectionalCollection"
+- !private "Ps22BidirectionalIndexable"
+- !private "Ps10Collection"
+- !private "Ps28CustomDebugStringConvertible"
+- !private "Ps17CustomReflectable"
+- !private "Ps23CustomStringConvertible"
+- "V10Foundation4Data"
+- "C12ObjectMapper13DataTransform"
+- !private "Ps9Equatable"
+- !private "Ps8Hashable"
+- !private "Ps9Indexable"
+- !private "Ps13IndexableBase"
+- !private "Ps17MutableCollection"
+- !private "Ps16MutableIndexable"
+- "Sq"
+- !private "Ps22RandomAccessCollection"
+- !private "Ps21RandomAccessIndexable"
+- !private "Ps26RangeReplaceableCollection"
+- !private "Ps25RangeReplaceableIndexable"
+- !private "P10Foundation20ReferenceConvertible"
+- !private "Ps8Sequence"
+- "SS"
+- "P12ObjectMapper13TransformType"
+- !private "Ps9_Hashable"
+- !private "P10Foundation18_MutablePairBoxing"
+- !private "Ps21_ObjectiveCBridgeable"
+depends-dynamic-lookup:
+depends-external:
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Swift.swiftmodule"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/Pods/Target Support Files/ObjectMapper/ObjectMapper-umbrella.h"
+- "/Users/Vishnu/QBurst/Internal/Pod/QAHelper/DerivedData/QAHelper/Build/Intermediates/Pods.build/Debug-iphonesimulator/ObjectMapper.build/unextended-module.modulemap"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/UIKit.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Foundation.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Darwin.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/Dispatch.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/ObjectiveC.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreGraphics.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/QuartzCore.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/CoreImage.swiftmodule"
+- "/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/swift/iphonesimulator/x86_64/SwiftOnoneSupport.swiftmodule"
+interface-hash: "9953aaf9cbdfef6a1d595b4eff504243"
